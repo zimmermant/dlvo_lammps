@@ -1,0 +1,39 @@
+units           si
+atom_style      atomic
+dimension      2
+
+lattice         sq 1e-2  #Distances measured in units 
+region		box block 0 4 0 4 -0.0005 0.0005  #Units in lattice constant
+create_box	1 box
+create_atoms	1 box
+
+mass 1 1e-9
+
+velocity	all create 300.0 87287 loop geom  #87287 is random number key
+
+# DLVO potential
+pair_style	dlvo 2.5e-7 #find realistic cutoff
+pair_coeff	1 1  1.3e-20 3e-6 7e-2 104022291 0.0828  #hamaker radius psi debyeinv springk
+#pair_coeff	1 2  5.0 1.0 5.0 0.0 7.0
+#pair_coeff	2 2 10.0 1.0 0.0 0.0 2.5
+
+fix		1 all npt temp 300.0 300.0 1e-12  iso 0.0 0.0 1e-11 #drag 1.0 &	
+fix		2 all enforce2d
+
+dump		1 all atom 1 dump.dlvo
+
+
+#dump		2 all image 1000 image.*.jpg type type &
+#		zoom 1.5 center d 0.5 0.5 0.5
+#dump_modify	2 pad 5 adiam 1 5.0 adiam 2 1.5
+
+#dump		3 all movie 1000 movie.mpg type type &
+#		zoom 1.5 center d 0.5 0.5 0.5
+#dump_modify	3 pad 5 adiam 1 5.0 adiam 2 1.5
+
+thermo_style	custom step temp epair etotal press vol
+thermo		10
+
+timestep	1e-13	
+
+run		50000

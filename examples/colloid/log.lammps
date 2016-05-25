@@ -1,0 +1,36 @@
+LAMMPS (16 Feb 2016)
+# Big colloid particles and small LJ particles
+
+units		lj
+atom_style	sphere
+dimension	2
+
+lattice		sq 0.01
+Lattice spacing in x,y,z = 10 10 10
+region		box block 0 30 0 30 -0.5 0.5
+create_box	2 box
+Created orthogonal box = (0 0 -5) to (300 300 5)
+  1 by 1 by 1 MPI processor grid
+create_atoms	1 box
+Created 900 atoms
+
+set		group all type/fraction 2 0.96 23984
+  861 settings made for type/fraction
+
+set		type 1 mass 9
+  39 settings made for mass
+set		type 2 mass 1
+  861 settings made for mass
+
+velocity	all create 1.44 87287 loop geom
+
+# multi neighbor and comm for efficiency
+
+neighbor	1 multi
+neigh_modify	delay 0
+comm_modify     mode multi
+
+# colloid potential
+
+pair_style	colloid 12.5
+ERROR: Unknown pair style (../force.cpp:190)
