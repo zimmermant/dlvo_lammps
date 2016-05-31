@@ -250,7 +250,7 @@ void ComputeVoronoi::buildCells()
   double *sublo = domain->sublo, *sublo_lamda = domain->sublo_lamda, *boxlo = domain->boxlo;
   double *subhi = domain->subhi, *subhi_lamda = domain->subhi_lamda;
   double *cut = comm->cutghost;
-  double sublo_bound[3], subhi_bound[3], cut_bound[3];
+  double sublo_bound[3], subhi_bound[3];
   double **x = atom->x;
 
   // setup bounds for voro++ domain for orthogonal and triclinic simulation boxes
@@ -260,8 +260,8 @@ void ComputeVoronoi::buildCells()
     // cutghost is in lamda coordinates for triclinic boxes, use subxx_lamda
     double *h = domain->h;
     for( i=0; i<3; ++i ) {
-      sublo_bound[i] = sublo[i]-cut[i]-e;
-      subhi_bound[i] = subhi[i]+cut[i]+e;
+      sublo_bound[i] = sublo_lamda[i]-cut[i]-e;
+      subhi_bound[i] = subhi_lamda[i]+cut[i]+e;
       if (domain->periodicity[i]==0) {
 	sublo_bound[i] = MAX(sublo_bound[i],0.0);
 	subhi_bound[i] = MIN(subhi_bound[i],1.0);

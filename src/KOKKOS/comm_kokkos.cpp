@@ -105,9 +105,9 @@ void CommKokkos::init()
 
   int check_forward = 0;
   int check_reverse = 0;
-  if (force->pair && !force->pair->execution_space == Device)
+  if (force->pair && (force->pair->execution_space == Host))
     check_forward += force->pair->comm_forward;
-  if (force->pair && !force->pair->execution_space == Device)
+  if (force->pair && (force->pair->execution_space == Host))
     check_reverse += force->pair->comm_reverse;
 
   for (int i = 0; i < modify->nfix; i++) {
@@ -364,7 +364,7 @@ void CommKokkos::exchange()
   if(atom->nextra_grow + atom->nextra_border) {
     if(!exchange_comm_classic) {
       static int print = 1;
-      if(print) {
+      if(print && comm->me==0) {
         error->warning(FLERR,"Fixes cannot send data in Kokkos communication, "
 		       "switching to classic communication");
         print = 0;
@@ -496,6 +496,7 @@ void CommKokkos::exchange_device()
           k_count.h_view(0)=k_exchange_sendlist.h_view.dimension_0();
         }
       }
+      k_exchange_copylist.sync<LMPHostType>();
       k_exchange_sendlist.sync<LMPHostType>();
       k_sendflag.sync<LMPHostType>();
 
@@ -615,9 +616,9 @@ void CommKokkos::borders()
   }
 
   atomKK->sync(Host,ALL_MASK);
-
-  k_sendlist.modify<LMPHostType>();
   atomKK->modified(Host,ALL_MASK);
+  k_sendlist.sync<LMPHostType>();
+  k_sendlist.modify<LMPHostType>();
   CommBrick::borders();
   k_sendlist.modify<LMPHostType>();
   atomKK->modified(Host,ALL_MASK);

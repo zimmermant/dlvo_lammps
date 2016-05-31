@@ -15,6 +15,8 @@
    Contributing author: Ase Henry (MIT)
    Bugfixes and optimizations:
      Marcel Fallet & Steve Stuart (Clemson), Axel Kohlmeyer (Temple U)
+   AIREBO-M modification to optionally replace LJ with Morse potentials.
+     Thomas C. O'Connor (JHU) 2014
 ------------------------------------------------------------------------- */
 
 #include <math.h>
@@ -51,6 +53,8 @@ PairAIREBO::PairAIREBO(LAMMPS *lmp) : Pair(lmp)
   single_enable = 0;
   one_coeff = 1;
   ghostneigh = 1;
+  ljflag = torflag = 1;
+  morseflag = 0;
 
   maxlocal = 0;
   REBO_numneigh = NULL;
@@ -142,7 +146,6 @@ void PairAIREBO::settings(int narg, char **arg)
 
   cutlj = force->numeric(FLERR,arg[0]);
 
-  ljflag = torflag = 1;
   if (narg == 3) {
     ljflag = force->inumeric(FLERR,arg[1]);
     torflag = force->inumeric(FLERR,arg[2]);
@@ -290,10 +293,23 @@ double PairAIREBO::init_one(int i, int j)
 
   cutghost[i][j] = rcmax[ii][jj];
   cutljsq[ii][jj] = cutlj*sigma[ii][jj] * cutlj*sigma[ii][jj];
-  lj1[ii][jj] = 48.0 * epsilon[ii][jj] * pow(sigma[ii][jj],12.0);
-  lj2[ii][jj] = 24.0 * epsilon[ii][jj] * pow(sigma[ii][jj],6.0);
-  lj3[ii][jj] = 4.0 * epsilon[ii][jj] * pow(sigma[ii][jj],12.0);
-  lj4[ii][jj] = 4.0 * epsilon[ii][jj] * pow(sigma[ii][jj],6.0);
+
+  if (morseflag) {
+
+    // using LJ precomputed parameter arrays to store values for Morse potential
+
+    lj1[ii][jj] = epsilonM[ii][jj] * exp(alphaM[ii][jj]*reqM[ii][jj]);
+    lj2[ii][jj] = exp(alphaM[ii][jj]*reqM[ii][jj]);
+    lj3[ii][jj] = 2*epsilonM[ii][jj]*alphaM[ii][jj]*exp(alphaM[ii][jj]*reqM[ii][jj]);
+    lj4[ii][jj] = alphaM[ii][jj];
+
+  } else {
+
+    lj1[ii][jj] = 48.0 * epsilon[ii][jj] * pow(sigma[ii][jj],12.0);
+    lj2[ii][jj] = 24.0 * epsilon[ii][jj] * pow(sigma[ii][jj],6.0);
+    lj3[ii][jj] = 4.0 * epsilon[ii][jj] * pow(sigma[ii][jj],12.0);
+    lj4[ii][jj] = 4.0 * epsilon[ii][jj] * pow(sigma[ii][jj],6.0);
+  }
 
   cutghost[j][i] = cutghost[i][j];
   cutljsq[jj][ii] = cutljsq[ii][jj];
@@ -732,11 +748,20 @@ void PairAIREBO::FLJ(int eflag, int vflag)
         dslw = 0.0;
       }
 
-      r2inv = 1.0/rijsq;
-      r6inv = r2inv*r2inv*r2inv;
+      if (morseflag) {
 
-      vdw = r6inv*(lj3[itype][jtype]*r6inv-lj4[itype][jtype]);
-      dvdw = -r6inv * (lj1[itype][jtype]*r6inv - lj2[itype][jtype]) / rij;
+        const double exr = exp(-rij*lj4[itype][jtype]);
+        vdw = lj1[itype][jtype]*exr*(lj2[itype][jtype]*exr - 2);
+        dvdw = lj3[itype][jtype]*exr*(1-lj2[itype][jtype]*exr);
+
+      } else {
+
+        r2inv = 1.0/rijsq;
+        r6inv = r2inv*r2inv*r2inv;
+
+        vdw = r6inv*(lj3[itype][jtype]*r6inv-lj4[itype][jtype]);
+        dvdw = -r6inv * (lj1[itype][jtype]*r6inv - lj2[itype][jtype]) / rij;
+      }
 
       // VLJ now becomes vdw * slw, derivaties, etc.
 
@@ -2226,7 +2251,6 @@ double PairAIREBO::bondorderLJ(int i, int j, double rij[3], double rijmag,
               ril[1] = rij[1]+rjl[1];
               ril[2] = rij[2]+rjl[2];
               ril2 = (ril[0]*ril[0])+(ril[1]*ril[1])+(ril[2]*ril[2]);
-              rijrjl = 2.0*rijmag*rjlmag;
               rjl2 = rjlmag*rjlmag;
               costmp = 0.5*(rij2+rjl2-ril2)/rijmag/rjlmag;
               tspijl = Sp2(costmp,thmin,thmax,dtsijl);
@@ -3160,12 +3184,11 @@ double PairAIREBO::piRCSpline(double Nij, double Nji, double Nijconj,
 
     if (done==0) {
       for (i=0; i<piCCdom[0][1]; i++)
-        if (Nij>=(double) i && Nij<=(double) i+1 || Nij==(double) i) x=i;
+        if (Nij>=(double) i && Nij<=(double) i+1) x=i;
       for (i=0; i<piCCdom[1][1]; i++)
-        if (Nji>=(double) i && Nji<=(double) i+1 || Nji==(double) i) y=i;
+        if (Nji>=(double) i && Nji<=(double) i+1) y=i;
       for (i=0; i<piCCdom[2][1]; i++)
-        if (Nijconj>=(double) i && Nijconj<=(double) i+1 ||
-            Nijconj==(double) i) z=i;
+        if (Nijconj>=(double) i && Nijconj<=(double) i+1) z=i;
 
       for (i=0; i<64; i++) coeffs[i]=piCC[x][y][z][i];
       piRC=Sptricubic(Nij,Nji,Nijconj,coeffs,dN3);
@@ -3175,7 +3198,7 @@ double PairAIREBO::piRCSpline(double Nij, double Nji, double Nijconj,
 
   // CH interaction
 
-  if (typei==0 && typej==1 || typei==1 && typej==0) {
+  if ((typei==0 && typej==1) || (typei==1 && typej==0)) {
     // if the inputs are out of bounds set them back to a point in bounds
 
     if (Nij<piCHdom[0][0] || Nij>piCHdom[0][1] ||
@@ -3322,6 +3345,10 @@ void PairAIREBO::read_file(char *filename)
     epsilon_CC,epsilon_CH,epsilon_HH;
   double sigma_CC,sigma_CH,sigma_HH,epsilonT_CCCC,epsilonT_CCCH,epsilonT_HCCH;
 
+  // additional parameters for Morse potential.
+  double epsilonM_CC,epsilonM_CH,epsilonM_HH,alphaM_CC,alphaM_CH,alphaM_HH;
+  double reqM_CC,reqM_CH,reqM_HH;
+
   MPI_Comm_rank(world,&me);
 
   // read file on proc 0
@@ -3330,7 +3357,10 @@ void PairAIREBO::read_file(char *filename)
     FILE *fp = force->open_potential(filename);
     if (fp == NULL) {
       char str[128];
-      sprintf(str,"Cannot open AIREBO potential file %s",filename);
+      if (morseflag)
+        sprintf(str,"Cannot open AIREBO-M potential file %s",filename);
+      else
+        sprintf(str,"Cannot open AIREBO potential file %s",filename);
       error->one(FLERR,str);
     }
 
@@ -3476,6 +3506,29 @@ void PairAIREBO::read_file(char *filename)
     sscanf(s,"%lg",&epsilonT_CCCH);
     fgets(s,MAXLINE,fp);
     sscanf(s,"%lg",&epsilonT_HCCH);
+
+    if (morseflag) {
+      // lines for reading in MORSE parameters from CH.airebo_m file
+      fgets(s,MAXLINE,fp);
+      sscanf(s,"%lg",&epsilonM_CC);
+      fgets(s,MAXLINE,fp);
+      sscanf(s,"%lg",&epsilonM_CH);
+      fgets(s,MAXLINE,fp);
+      sscanf(s,"%lg",&epsilonM_HH);
+      fgets(s,MAXLINE,fp);
+      sscanf(s,"%lg",&alphaM_CC);
+      fgets(s,MAXLINE,fp);
+      sscanf(s,"%lg",&alphaM_CH);
+      fgets(s,MAXLINE,fp);
+      sscanf(s,"%lg",&alphaM_HH);
+      fgets(s,MAXLINE,fp);
+      sscanf(s,"%lg",&reqM_CC);
+      fgets(s,MAXLINE,fp);
+      sscanf(s,"%lg",&reqM_CH);
+      fgets(s,MAXLINE,fp);
+      sscanf(s,"%lg",&reqM_HH);
+    }
+
 
     // gC spline
 
@@ -3805,6 +3858,25 @@ void PairAIREBO::read_file(char *filename)
     sigma[1][0] = sigma[0][1];
     sigma[1][1] = sigma_HH;
 
+    if (morseflag) {
+      // Morse parameter assignments
+
+      epsilonM[0][0] = epsilonM_CC;
+      epsilonM[0][1] = epsilonM_CH;
+      epsilonM[1][0] = epsilonM[0][1];
+      epsilonM[1][1] = epsilonM_HH;
+
+      alphaM[0][0] = alphaM_CC;
+      alphaM[0][1] = alphaM_CH;
+      alphaM[1][0] = alphaM[0][1];
+      alphaM[1][1] = alphaM_HH;
+
+      reqM[0][0] = reqM_CC;
+      reqM[0][1] = reqM_CH;
+      reqM[1][0] = reqM[0][1];
+      reqM[1][1] = reqM_HH;
+    }
+
     // torsional
 
     thmin = -1.0;
@@ -3853,6 +3925,13 @@ void PairAIREBO::read_file(char *filename)
   MPI_Bcast(&epsilon[0][0],4,MPI_DOUBLE,0,world);
   MPI_Bcast(&sigma[0][0],4,MPI_DOUBLE,0,world);
   MPI_Bcast(&epsilonT[0][0],4,MPI_DOUBLE,0,world);
+
+  if (morseflag) {
+    // Morse parameter broadcast
+    MPI_Bcast(&epsilonM[0][0],4,MPI_DOUBLE,0,world);
+    MPI_Bcast(&alphaM[0][0],4,MPI_DOUBLE,0,world);
+    MPI_Bcast(&reqM[0][0],4,MPI_DOUBLE,0,world);
+  }
 
   MPI_Bcast(&gCdom[0],5,MPI_DOUBLE,0,world);
   MPI_Bcast(&gC1[0][0],24,MPI_DOUBLE,0,world);

@@ -313,8 +313,13 @@ ComputeChunkAtom::ComputeChunkAtom(LAMMPS *lmp, int narg, char **arg) :
     error->all(FLERR,"Illegal compute chunk/atom command");
   if (which == BIN2D && (delta[0] <= 0.0 || delta[1] <= 0.0))
     error->all(FLERR,"Illegal compute chunk/atom command");
+  if (which == BIN2D && (dim[0] == dim[1]))
+    error->all(FLERR,"Illegal compute chunk/atom command");
   if (which == BIN3D &&
       (delta[0] <= 0.0 || delta[1] <= 0.0 || delta[2] <= 0.0))
+      error->all(FLERR,"Illegal compute chunk/atom command");
+  if (which == BIN3D &&
+      (dim[0] == dim[1] || dim[1] == dim[2] || dim[0] == dim[2]))
       error->all(FLERR,"Illegal compute chunk/atom command");
   if (which == BINSPHERE) {
     if (domain->dimension == 2 && sorigin_user[2] != 0.0) 
@@ -398,7 +403,7 @@ ComputeChunkAtom::ComputeChunkAtom(LAMMPS *lmp, int narg, char **arg) :
     double scale;
     if (which == BIN1D || which == BIN2D || which == BIN3D || 
         which == BINCYLINDER) {
-      if (which == BIN1D || BINCYLINDER) ndim = 1;
+      if (which == BIN1D || which == BINCYLINDER) ndim = 1;
       if (which == BIN2D) ndim = 2;
       if (which == BIN3D) ndim = 3;
       for (int idim = 0; idim < ndim; idim++) {
@@ -441,7 +446,7 @@ ComputeChunkAtom::ComputeChunkAtom(LAMMPS *lmp, int narg, char **arg) :
 
   nmax = 0;
   chunk = NULL;
-  nmaxint = 0;
+  nmaxint = -1;
   ichunk = NULL;
   exclude = NULL;
 
@@ -1989,7 +1994,7 @@ void ComputeChunkAtom::set_arrays(int i)
 
 double ComputeChunkAtom::memory_usage()
 {
-  double bytes = 2*nmaxint * sizeof(int);          // ichunk,exclude
+  double bytes = 2*MAX(nmaxint,0) * sizeof(int);   // ichunk,exclude
   bytes += nmax * sizeof(double);                  // chunk
   bytes += ncoord*nchunk * sizeof(double);         // coord
   if (compress) bytes += nchunk * sizeof(int);     // chunkID

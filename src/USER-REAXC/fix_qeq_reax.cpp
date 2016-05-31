@@ -71,6 +71,8 @@ FixQEqReax::FixQEqReax(LAMMPS *lmp, int narg, char **arg) :
   if (narg != 8) error->all(FLERR,"Illegal fix qeq/reax command");
 
   nevery = force->inumeric(FLERR,arg[3]);
+  if (nevery <= 0) error->all(FLERR,"Illegal fix qeq/reax command");
+
   swa = force->numeric(FLERR,arg[4]);
   swb = force->numeric(FLERR,arg[5]);
   tolerance = force->numeric(FLERR,arg[6]);
@@ -367,7 +369,8 @@ void FixQEqReax::init_shielding()
   int ntypes;
 
   ntypes = atom->ntypes;
-  memory->create(shld,ntypes+1,ntypes+1,"qeq:shileding");
+  if (shld == NULL)
+    memory->create(shld,ntypes+1,ntypes+1,"qeq:shileding");
 
   for( i = 1; i <= ntypes; ++i )
     for( j = 1; j <= ntypes; ++j )

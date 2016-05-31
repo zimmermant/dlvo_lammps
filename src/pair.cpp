@@ -38,11 +38,11 @@
 #include "suffix.h"
 #include "atom_masks.h"
 #include "memory.h"
+#include "math_const.h"
 #include "error.h"
 
 using namespace LAMMPS_NS;
-
-#define EWALD_F 1.12837917
+using namespace MathConst;
 
 enum{NONE,RLINEAR,RSQ,BMP};
 
@@ -55,8 +55,6 @@ int Pair::instance_total = 0;
 Pair::Pair(LAMMPS *lmp) : Pointers(lmp)
 {
   instance_me = instance_total++;
-
-  THIRD = 1.0/3.0;
 
   eng_vdwl = eng_coul = 0.0;
 
@@ -385,7 +383,7 @@ void Pair::init_tables(double cut_coul, double *cut_respa)
         ftable[i] = qqrd2e/r * fgamma;
         etable[i] = qqrd2e/r * egamma;
       } else {
-        ftable[i] = qqrd2e/r * (derfc + EWALD_F*grij*expm2);
+        ftable[i] = qqrd2e/r * (derfc + MY_ISPI4*grij*expm2);
         etable[i] = qqrd2e/r * derfc;
       }
     } else {
@@ -397,9 +395,9 @@ void Pair::init_tables(double cut_coul, double *cut_respa)
         etable[i] = qqrd2e/r * egamma;
         vtable[i] = qqrd2e/r * fgamma;
       } else {
-        ftable[i] = qqrd2e/r * (derfc + EWALD_F*grij*expm2 - 1.0);
+        ftable[i] = qqrd2e/r * (derfc + MY_ISPI4*grij*expm2 - 1.0);
         etable[i] = qqrd2e/r * derfc;
-        vtable[i] = qqrd2e/r * (derfc + EWALD_F*grij*expm2);
+        vtable[i] = qqrd2e/r * (derfc + MY_ISPI4*grij*expm2);
       }
       if (rsq_lookup.f > cut_respa[2]*cut_respa[2]) {
         if (rsq_lookup.f < cut_respa[3]*cut_respa[3]) {
@@ -408,7 +406,7 @@ void Pair::init_tables(double cut_coul, double *cut_respa)
           ctable[i] = qqrd2e/r * rsw*rsw*(3.0 - 2.0*rsw);
         } else {
           if (msmflag) ftable[i] = qqrd2e/r * fgamma;
-          else ftable[i] = qqrd2e/r * (derfc + EWALD_F*grij*expm2);
+          else ftable[i] = qqrd2e/r * (derfc + MY_ISPI4*grij*expm2);
           ctable[i] = qqrd2e/r;
         }
       }
@@ -481,7 +479,7 @@ void Pair::init_tables(double cut_coul, double *cut_respa)
         f_tmp = qqrd2e/r * fgamma;
         e_tmp = qqrd2e/r * egamma;
       } else {
-        f_tmp = qqrd2e/r * (derfc + EWALD_F*grij*expm2);
+        f_tmp = qqrd2e/r * (derfc + MY_ISPI4*grij*expm2);
         e_tmp = qqrd2e/r * derfc;
       }
     } else {
@@ -492,9 +490,9 @@ void Pair::init_tables(double cut_coul, double *cut_respa)
         e_tmp = qqrd2e/r * egamma;
         v_tmp = qqrd2e/r * fgamma;
       } else {
-        f_tmp = qqrd2e/r * (derfc + EWALD_F*grij*expm2 - 1.0);
+        f_tmp = qqrd2e/r * (derfc + MY_ISPI4*grij*expm2 - 1.0);
         e_tmp = qqrd2e/r * derfc;
-        v_tmp = qqrd2e/r * (derfc + EWALD_F*grij*expm2);
+        v_tmp = qqrd2e/r * (derfc + MY_ISPI4*grij*expm2);
       }
       if (rsq_lookup.f > cut_respa[2]*cut_respa[2]) {
         if (rsq_lookup.f < cut_respa[3]*cut_respa[3]) {
@@ -503,7 +501,7 @@ void Pair::init_tables(double cut_coul, double *cut_respa)
           c_tmp = qqrd2e/r * rsw*rsw*(3.0 - 2.0*rsw);
         } else {
           if (msmflag) f_tmp = qqrd2e/r * fgamma;
-          else f_tmp = qqrd2e/r * (derfc + EWALD_F*grij*expm2);
+          else f_tmp = qqrd2e/r * (derfc + MY_ISPI4*grij*expm2);
           c_tmp = qqrd2e/r;
         }
       }
@@ -1574,9 +1572,9 @@ void Pair::write_file(int narg, char **arg)
     fprintf(fp,"# Pair potential %s for atom types %d %d: i,r,energy,force\n",
             force->pair_style,itype,jtype);
     if (style == RLINEAR)
-      fprintf(fp,"\n%s\nN %d R %g %g\n\n",arg[7],n,inner,outer);
+      fprintf(fp,"\n%s\nN %d R %.15g %.15g\n\n",arg[7],n,inner,outer);
     if (style == RSQ)
-      fprintf(fp,"\n%s\nN %d RSQ %g %g\n\n",arg[7],n,inner,outer);
+      fprintf(fp,"\n%s\nN %d RSQ %.15g %.15g\n\n",arg[7],n,inner,outer);
   }
 
   // initialize potentials before evaluating pair potential
@@ -1618,7 +1616,7 @@ void Pair::write_file(int narg, char **arg)
     init_bitmap(inner,outer,n,masklo,maskhi,nmask,nshiftbits);
     int ntable = 1 << n;
     if (me == 0)
-      fprintf(fp,"\n%s\nN %d BITMAP %g %g\n\n",arg[7],ntable,inner,outer);
+      fprintf(fp,"\n%s\nN %d BITMAP %.15g %.15g\n\n",arg[7],ntable,inner,outer);
     n = ntable;
   }
 
@@ -1647,7 +1645,7 @@ void Pair::write_file(int narg, char **arg)
       e = single(0,1,itype,jtype,rsq,1.0,1.0,f);
       f *= r;
     } else e = f = 0.0;
-    if (me == 0) fprintf(fp,"%d %g %g %g\n",i+1,r,e,f);
+    if (me == 0) fprintf(fp,"%d %.15g %.15g %.15g\n",i+1,r,e,f);
   }
 
   // restore original vecs that were swapped in for

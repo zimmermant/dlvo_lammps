@@ -116,6 +116,8 @@ void FixEOStable::init()
   } else {
     for (int i = 0; i < nlocal; i++)
       if (mask[i] & groupbit) {
+	if(dpdTheta[i] <= double(0.0)) 
+	  error->one(FLERR,"Internal temperature <= zero");
 	energy_lookup(dpdTheta[i],tmp);
 	uCond[i] = tmp / double(2.0);
 	uMech[i] = tmp / double(2.0);
@@ -137,7 +139,7 @@ void FixEOStable::post_integrate()
     if (mask[i] & groupbit){
       temperature_lookup(uCond[i]+uMech[i],dpdTheta[i]);
       if(dpdTheta[i] <= double(0.0)) 
-	error->one(FLERR,"Internal temperature < zero");
+	error->one(FLERR,"Internal temperature <= zero");
     }
 }
 
@@ -155,7 +157,7 @@ void FixEOStable::end_of_step()
     if (mask[i] & groupbit){
       temperature_lookup(uCond[i]+uMech[i],dpdTheta[i]);
       if(dpdTheta[i] <= double(0.0)) 
-	error->one(FLERR,"Internal temperature < zero");
+	error->one(FLERR,"Internal temperature <= zero");
     }
 }
 
@@ -395,7 +397,7 @@ double FixEOStable::splint(double *xa, double *ya, double *y2a, int n, double x)
 void FixEOStable::energy_lookup(double t, double &u)
 {
   int itable;
-  double fraction,a,b;
+  double fraction;
 
   Table *tb = &tables[0];
   if(t < tb->lo || t > tb->hi){
@@ -417,7 +419,7 @@ void FixEOStable::energy_lookup(double t, double &u)
 void FixEOStable::temperature_lookup(double u, double &t)
 {
   int itable;
-  double fraction,a,b;
+  double fraction;
 
   Table *tb = &tables[1];
   if(u < tb->lo || u > tb->hi){ 

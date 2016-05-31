@@ -291,7 +291,6 @@ void FixNHKokkos<DeviceType>::final_integrate()
 template<class DeviceType>
 void FixNHKokkos<DeviceType>::remap()
 {
-  int i;
   double oldlo,oldhi;
   double expfac;
 
@@ -732,7 +731,10 @@ void FixNHKokkos<DeviceType>::pre_exchange()
   }
 }
 
+namespace LAMMPS_NS {
 template class FixNHKokkos<LMPDeviceType>;
 #ifdef KOKKOS_HAVE_CUDA
 template class FixNHKokkos<LMPHostType>;
 #endif
+}
+

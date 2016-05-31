@@ -354,7 +354,7 @@ void DomainKokkos::pbc()
   }
 
   atomKK->sync(Device,X_MASK|V_MASK|MASK_MASK|IMAGE_MASK);
-  atomKK->modified(Device,X_MASK|V_MASK);
+  atomKK->modified(Device,X_MASK|V_MASK|IMAGE_MASK);
 
   if (xperiodic || yperiodic || zperiodic) {
     if (deform_vremap) {
@@ -600,3 +600,4 @@ void DomainKokkos::operator()(TagDomain_x2lamda, const int &i) const {
   x(i,1) = h_inv[1]*delta[1] + h_inv[3]*delta[2];
   x(i,2) = h_inv[2]*delta[2];
 }
+

@@ -59,6 +59,10 @@ enum {TIME_PACK, TIME_HOST_NEIGHBOR, TIME_HOST_PAIR, TIME_OFFLOAD_NEIGHBOR,
 #define NUM_ITIMERS ( TIME_IMBALANCE + 1 )
 #define INTEL_MIC_VECTOR_WIDTH 16
 #define INTEL_VECTOR_WIDTH 4
+#define INTEL_MAX_STENCIL 256
+// INTEL_MAX_STENCIL * sqrt(INTEL_MAX_STENCIL)
+#define INTEL_MAX_STENCIL_CHECK 4096
+#define INTEL_P3M_MAXORDER 5
 
 #ifdef __AVX__
 #undef INTEL_VECTOR_WIDTH
@@ -182,6 +186,16 @@ enum {TIME_PACK, TIME_HOST_NEIGHBOR, TIME_HOST_PAIR, TIME_OFFLOAD_NEIGHBOR,
   ifrom = 0;							\
   ito = inum;							\
 }
+
+#define IP_PRE_omp_range_id_vec(ifrom, ito, tid, inum,          \
+				nthreads, vecsize)		\
+  {								\
+    tid = 0;                            			\
+    int idelta = static_cast<int>(ceil(static_cast<float>(inum)	\
+				       /vecsize));         	\
+    ifrom = 0;							\
+    ito = inum;							\
+  }
 
 #endif
 

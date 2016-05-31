@@ -14,6 +14,7 @@
 #include "neighbor_kokkos.h"
 #include "atom.h"
 #include "pair.h"
+#include "fix.h"
 #include "neigh_request.h"
 #include "memory.h"
 #include "update.h"
@@ -136,6 +137,10 @@ int NeighborKokkos::init_lists_kokkos()
       Pair *pair = (Pair *) requests[i]->requestor;
       pair->init_list(requests[i]->id,lists_host[i]);
     }
+    if (requests[i]->fix) {
+      Fix *fix = (Fix *) requests[i]->requestor;
+      fix->init_list(requests[i]->id,lists_host[i]);
+    }
   }
 
   lists_device = new NeighListKokkos<LMPDeviceType>*[nrequest];
@@ -155,6 +160,10 @@ int NeighborKokkos::init_lists_kokkos()
     if (requests[i]->pair) {
       Pair *pair = (Pair *) requests[i]->requestor;
       pair->init_list(requests[i]->id,lists_device[i]);
+    }
+    if (requests[i]->fix) {
+      Fix *fix = (Fix *) requests[i]->requestor;
+      fix->init_list(requests[i]->id,lists_device[i]);
     }
   }
 
@@ -485,9 +494,10 @@ void NeighborKokkos::build_kokkos(int topoflag)
   // blist is for standard neigh lists, otherwise is a Kokkos list
 
   for (i = 0; i < nblist; i++) {
-    if (lists[blist[i]])
+    if (lists[blist[i]]) {
+      atomKK->sync(Host,ALL_MASK);
       (this->*pair_build[blist[i]])(lists[blist[i]]);
-    else {
+    } else {
       if (lists_host[blist[i]])
         (this->*pair_build_host[blist[i]])(lists_host[blist[i]]);
       else if (lists_device[blist[i]])

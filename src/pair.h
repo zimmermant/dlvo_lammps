@@ -178,6 +178,8 @@ class Pair : protected Pointers {
   virtual void unpack_reverse_comm(int, int *, double *) {}
   virtual double memory_usage();
 
+  void set_copymode(int value) { copymode = value; }
+
   // specific child-class methods for certain Pair styles
 
   virtual void *extract(const char *, int &) {return NULL;}
@@ -216,8 +218,6 @@ class Pair : protected Pointers {
   // custom data type for accessing Coulomb tables
 
   typedef union {int i; float f;} union_int_float_t;
-
-  double THIRD;
 
   int vflag_fdotr;
   int maxeatom,maxvatom;

@@ -644,6 +644,7 @@ int Input::execute_command()
   else if (!strcmp(command,"atom_style")) atom_style();
   else if (!strcmp(command,"bond_coeff")) bond_coeff();
   else if (!strcmp(command,"bond_style")) bond_style();
+  else if (!strcmp(command,"bond_write")) bond_write();
   else if (!strcmp(command,"boundary")) boundary();
   else if (!strcmp(command,"box")) box();
   else if (!strcmp(command,"comm_modify")) comm_modify();
@@ -1281,6 +1282,17 @@ void Input::bond_style()
 
 /* ---------------------------------------------------------------------- */
 
+void Input::bond_write()
+{
+  if (atom->avec->bonds_allow == 0)
+    error->all(FLERR,"Bond_write command when no bonds allowed");
+  if (force->bond == NULL)
+    error->all(FLERR,"Bond_write command before bond_style is defined");
+  else force->bond->write_file(narg,arg);
+}
+
+/* ---------------------------------------------------------------------- */
+
 void Input::boundary()
 {
   if (domain->box_exist)
@@ -1604,13 +1616,6 @@ void Input::package()
     for (int i = 1; i < narg; i++) fixarg[i+2] = arg[i];
     modify->add_fix(2+narg,fixarg);
     delete [] fixarg;
-
-    // set integrator = verlet/intel
-    // -sf intel does same thing in Update constructor via suffix
-
-    char *str;
-    str = (char *) "verlet/intel";
-    update->create_integrate(1,&str,0);
 
   } else error->all(FLERR,"Illegal package command");
 }

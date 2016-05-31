@@ -1097,7 +1097,6 @@ double PairAIREBOOMP::bondorderLJ_thr(int i, int j, double rij[3], double rijmag
               ril[1] = rij[1]+rjl[1];
               ril[2] = rij[2]+rjl[2];
               ril2 = (ril[0]*ril[0])+(ril[1]*ril[1])+(ril[2]*ril[2]);
-              rijrjl = 2.0*rijmag*rjlmag;
               rjl2 = rjlmag*rjlmag;
               costmp = 0.5*(rij2+rjl2-ril2)/rijmag/rjlmag;
               tspijl = Sp2(costmp,thmin,thmax,dtsijl);
@@ -2178,11 +2177,20 @@ void PairAIREBOOMP::FLJ_thr(int ifrom, int ito, int evflag, int eflag,
         dslw = 0.0;
       }
 
-      r2inv = 1.0/rijsq;
-      r6inv = r2inv*r2inv*r2inv;
+      if (morseflag) {
 
-      vdw = r6inv*(lj3[itype][jtype]*r6inv-lj4[itype][jtype]);
-      dvdw = -r6inv * (lj1[itype][jtype]*r6inv - lj2[itype][jtype]) / rij;
+        const double exr = exp(-rij*lj4[itype][jtype]);
+        vdw = lj1[itype][jtype]*exr*(lj2[itype][jtype]*exr - 2);
+        dvdw = lj3[itype][jtype]*exr*(1-lj2[itype][jtype]*exr);
+
+      } else {
+
+        r2inv = 1.0/rijsq;
+        r6inv = r2inv*r2inv*r2inv;
+
+        vdw = r6inv*(lj3[itype][jtype]*r6inv-lj4[itype][jtype]);
+        dvdw = -r6inv * (lj1[itype][jtype]*r6inv - lj2[itype][jtype]) / rij;
+      }
 
       // VLJ now becomes vdw * slw, derivaties, etc.
 

@@ -89,6 +89,7 @@ FixAdapt::FixAdapt(LAMMPS *lmp, int narg, char **arg) : Fix(lmp, narg, arg)
       strcpy(adapt[nadapt].pstyle,arg[iarg+1]);
       n = strlen(arg[iarg+2]) + 1;
       adapt[nadapt].pparam = new char[n];
+      adapt[nadapt].pair = NULL;
       strcpy(adapt[nadapt].pparam,arg[iarg+2]);
       force->bounds(arg[iarg+3],atom->ntypes,
                     adapt[nadapt].ilo,adapt[nadapt].ihi);
@@ -294,7 +295,7 @@ void FixAdapt::init()
 
     if (ad->which == PAIR) {
       anypair = 1;
-      Pair *pair = NULL;
+      ad->pair = NULL;
 
       // if ad->pstyle has trailing sub-style annotation ":N",
       //   strip it for pstyle arg to pair_match() and set nsub = N
@@ -317,23 +318,28 @@ void FixAdapt::init()
         strcpy(psuffix,pstyle);
         strcat(psuffix,"/");
         strcat(psuffix,lmp->suffix);
-        pair = force->pair_match(psuffix,1,nsub);
+        ad->pair = force->pair_match(psuffix,1,nsub);
         delete[] psuffix;
       }
-      if (pair == NULL) pair = force->pair_match(pstyle,1,nsub);
-      if (pair == NULL) error->all(FLERR,"Fix adapt pair style does not exist");
-      void *ptr = pair->extract(ad->pparam,ad->pdim);
+      if (ad->pair == NULL) ad->pair = force->pair_match(pstyle,1,nsub);
+      if (ad->pair == NULL) error->all(FLERR,"Fix adapt pair style does not exist");
+
+      void *ptr = ad->pair->extract(ad->pparam,ad->pdim);
       if (ptr == NULL)
         error->all(FLERR,"Fix adapt pair style param not supported");
 
-      ad->pdim = 2;
-      if (ad->pdim == 0) ad->scalar = (double *) ptr;
-      if (ad->pdim == 2) ad->array = (double **) ptr;
+      // for pair styles only parameters that are 2-d arrays in atom types or
+      // scalars are supported
+      if (ad->pdim != 2 && ad->pdim != 0)
+        error->all(FLERR,"Fix adapt pair style param is not compatible");
+
+      if(ad->pdim == 2) ad->array = (double **) ptr;
+      if(ad->pdim == 0) ad->scalar = (double *) ptr;
 
       // if pair hybrid, test that ilo,ihi,jlo,jhi are valid for sub-style
 
-      if (ad->pdim == 2 && (strcmp(force->pair_style,"hybrid") == 0 ||
-                            strcmp(force->pair_style,"hybrid/overlay") == 0)) {
+      if (strcmp(force->pair_style,"hybrid") == 0 ||
+          strcmp(force->pair_style,"hybrid/overlay") == 0) {
         PairHybrid *pair = (PairHybrid *) force->pair;
         for (i = ad->ilo; i <= ad->ihi; i++)
           for (j = MAX(ad->jlo,i); j <= ad->jhi; j++)
@@ -362,13 +368,14 @@ void FixAdapt::init()
   }
 
   // make copy of original pair array values
-
   for (int m = 0; m < nadapt; m++) {
     Adapt *ad = &adapt[m];
     if (ad->which == PAIR && ad->pdim == 2) {
       for (i = ad->ilo; i <= ad->ihi; i++)
         for (j = MAX(ad->jlo,i); j <= ad->jhi; j++)
           ad->array_orig[i][j] = ad->array[i][j];
+    }else if (ad->which == PAIR && ad->pdim == 0){
+      ad->scalar_orig = *ad->scalar;
     }
   }
 
@@ -515,8 +522,14 @@ void FixAdapt::change_settings()
   // re-initialize pair styles if any PAIR settings were changed
   // this resets other coeffs that may depend on changed values,
   // and also offset and tail corrections
-
-  if (anypair) force->pair->reinit();
+  if (anypair) {
+    for (int m = 0; m < nadapt; m++) {
+      Adapt *ad = &adapt[m];
+      if (ad->which == PAIR) {
+        ad->pair->reinit();
+      }
+    }
+  }
 
   // reset KSpace charges if charges have changed
 
