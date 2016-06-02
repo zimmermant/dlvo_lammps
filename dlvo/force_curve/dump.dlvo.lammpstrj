@@ -1,0 +1,10000 @@
+ITEM: TIMESTEP
+0
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 1e-05 0 0 0 0 0 0 0 0 
+ITEM: TIMESTEP
+1000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 9.99e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+2000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 9.98e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+3000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 9.97e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+4000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 9.96e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+5000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 9.95e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+6000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 9.94e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+7000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 9.93e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+8000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 9.92e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+9000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 9.91e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+10000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 9.9e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+11000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 9.89e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+12000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 9.88e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+13000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 9.87e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+14000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 9.86e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+15000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 9.85e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+16000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 9.84e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+17000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 9.83e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+18000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 9.82e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+19000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 9.81e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+20000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 9.8e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+21000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 9.79e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+22000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 9.78e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+23000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 9.77e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+24000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 9.76e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+25000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 9.75e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+26000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 9.74e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+27000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 9.73e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+28000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 9.72e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+29000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 9.71e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+30000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 9.7e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+31000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 9.69e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+32000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 9.68e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+33000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 9.67e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+34000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 9.66e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+35000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 9.65e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+36000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 9.64e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+37000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 9.63e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+38000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 9.62e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+39000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 9.61e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+40000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 9.6e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+41000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 9.59e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+42000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 9.58e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+43000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 9.57e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+44000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 9.56e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+45000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 9.55e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+46000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 9.54e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+47000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 9.53e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+48000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 9.52e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+49000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 9.51e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+50000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 9.5e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+51000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 9.49e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+52000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 9.48e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+53000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 9.47e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+54000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 9.46e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+55000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 9.45e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+56000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 9.44e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+57000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 9.43e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+58000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 9.42e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+59000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 9.41e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+60000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 9.4e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+61000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 9.39e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+62000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 9.38e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+63000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 9.37e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+64000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 9.36e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+65000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 9.35e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+66000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 9.34e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+67000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 9.33e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+68000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 9.32e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+69000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 9.31e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+70000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 9.3e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+71000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 9.29e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+72000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 9.28e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+73000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 9.27e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+74000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 9.26e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+75000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 9.25e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+76000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 9.24e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+77000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 9.23e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+78000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 9.22e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+79000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 9.21e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+80000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 9.2e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+81000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 9.19e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+82000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 9.18e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+83000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 9.17e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+84000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 9.16e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+85000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 9.15e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+86000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 9.14e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+87000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 9.13e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+88000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 9.12e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+89000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 9.11e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+90000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 9.1e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+91000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 9.09e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+92000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 9.08e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+93000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 9.07e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+94000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 9.06e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+95000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 9.05e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+96000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 9.04e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+97000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 9.03e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+98000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 9.02e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+99000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 9.01e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+100000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 9e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+101000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 8.99e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+102000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 8.98e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+103000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 8.97e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+104000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 8.96e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+105000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 8.95e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+106000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 8.94e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+107000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 8.93e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+108000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 8.92e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+109000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 8.91e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+110000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 8.9e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+111000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 8.89e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+112000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 8.88e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+113000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 8.87e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+114000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 8.86e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+115000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 8.85e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+116000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 8.84e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+117000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 8.83e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+118000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 8.82e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+119000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 8.81e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+120000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 8.8e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+121000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 8.79e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+122000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 8.78e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+123000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 8.77e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+124000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 8.76e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+125000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 8.75e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+126000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 8.74e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+127000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 8.73e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+128000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 8.72e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+129000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 8.71e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+130000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 8.7e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+131000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 8.69e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+132000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 8.68e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+133000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 8.67e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+134000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 8.66e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+135000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 8.65e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+136000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 8.64e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+137000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 8.63e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+138000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 8.62e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+139000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 8.61e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+140000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 8.6e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+141000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 8.59e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+142000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 8.58e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+143000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 8.57e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+144000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 8.56e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+145000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 8.55e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+146000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 8.54e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+147000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 8.53e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+148000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 8.52e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+149000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 8.51e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+150000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 8.5e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+151000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 8.49e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+152000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 8.48e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+153000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 8.47e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+154000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 8.46e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+155000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 8.45e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+156000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 8.44e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+157000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 8.43e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+158000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 8.42e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+159000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 8.41e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+160000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 8.4e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+161000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 8.39e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+162000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 8.38e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+163000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 8.37e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+164000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 8.36e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+165000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 8.35e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+166000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 8.34e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+167000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 8.33e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+168000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 8.32e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+169000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 8.31e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+170000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 8.3e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+171000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 8.29e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+172000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 8.28e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+173000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 8.27e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+174000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 8.26e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+175000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 8.25e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+176000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 8.24e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+177000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 8.23e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+178000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 8.22e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+179000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 8.21e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+180000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 8.2e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+181000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 8.19e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+182000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 8.18e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+183000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 8.17e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+184000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 8.16e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+185000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 8.15e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+186000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 8.14e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+187000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 8.13e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+188000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 8.12e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+189000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 8.11e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+190000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 8.1e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+191000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 8.09e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+192000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 8.08e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+193000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 8.07e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+194000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 8.06e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+195000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 8.05e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+196000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 8.04e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+197000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 8.03e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+198000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 8.02e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+199000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 8.01e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+200000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 8e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+201000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 7.99e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+202000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 7.98e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+203000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 7.97e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+204000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 7.96e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+205000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 7.95e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+206000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 7.94e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+207000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 7.93e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+208000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 7.92e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+209000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 7.91e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+210000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 7.9e-06 0 0 -1e-06 0 0 0 0 0 
+ITEM: TIMESTEP
+211000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 7.89e-06 0 0 -1e-06 0 0 4.71767e-16 0 0 
+ITEM: TIMESTEP
+212000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 7.88e-06 0 0 -1e-06 0 0 4.75579e-16 0 0 
+ITEM: TIMESTEP
+213000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 7.87e-06 0 0 -1e-06 0 0 4.79437e-16 0 0 
+ITEM: TIMESTEP
+214000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 7.86e-06 0 0 -1e-06 0 0 4.83343e-16 0 0 
+ITEM: TIMESTEP
+215000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 7.85e-06 0 0 -1e-06 0 0 4.87297e-16 0 0 
+ITEM: TIMESTEP
+216000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 7.84e-06 0 0 -1e-06 0 0 4.91299e-16 0 0 
+ITEM: TIMESTEP
+217000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 7.83e-06 0 0 -1e-06 0 0 4.95351e-16 0 0 
+ITEM: TIMESTEP
+218000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 7.82e-06 0 0 -1e-06 0 0 4.99454e-16 0 0 
+ITEM: TIMESTEP
+219000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 7.81e-06 0 0 -1e-06 0 0 5.03607e-16 0 0 
+ITEM: TIMESTEP
+220000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 7.8e-06 0 0 -1e-06 0 0 5.07812e-16 0 0 
+ITEM: TIMESTEP
+221000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 7.79e-06 0 0 -1e-06 0 0 5.12071e-16 0 0 
+ITEM: TIMESTEP
+222000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 7.78e-06 0 0 -1e-06 0 0 5.16383e-16 0 0 
+ITEM: TIMESTEP
+223000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 7.77e-06 0 0 -1e-06 0 0 5.2075e-16 0 0 
+ITEM: TIMESTEP
+224000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 7.76e-06 0 0 -1e-06 0 0 5.25172e-16 0 0 
+ITEM: TIMESTEP
+225000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 7.75e-06 0 0 -1e-06 0 0 5.29651e-16 0 0 
+ITEM: TIMESTEP
+226000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 7.74e-06 0 0 -1e-06 0 0 5.34188e-16 0 0 
+ITEM: TIMESTEP
+227000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 7.73e-06 0 0 -1e-06 0 0 5.38783e-16 0 0 
+ITEM: TIMESTEP
+228000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 7.72e-06 0 0 -1e-06 0 0 5.43438e-16 0 0 
+ITEM: TIMESTEP
+229000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 7.71e-06 0 0 -1e-06 0 0 5.48153e-16 0 0 
+ITEM: TIMESTEP
+230000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 7.7e-06 0 0 -1e-06 0 0 5.5293e-16 0 0 
+ITEM: TIMESTEP
+231000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 7.69e-06 0 0 -1e-06 0 0 5.5777e-16 0 0 
+ITEM: TIMESTEP
+232000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 7.68e-06 0 0 -1e-06 0 0 5.62673e-16 0 0 
+ITEM: TIMESTEP
+233000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 7.67e-06 0 0 -1e-06 0 0 5.67642e-16 0 0 
+ITEM: TIMESTEP
+234000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 7.66e-06 0 0 -1e-06 0 0 5.72676e-16 0 0 
+ITEM: TIMESTEP
+235000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 7.65e-06 0 0 -1e-06 0 0 5.77778e-16 0 0 
+ITEM: TIMESTEP
+236000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 7.64e-06 0 0 -1e-06 0 0 5.82948e-16 0 0 
+ITEM: TIMESTEP
+237000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 7.63e-06 0 0 -1e-06 0 0 5.88188e-16 0 0 
+ITEM: TIMESTEP
+238000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 7.62e-06 0 0 -1e-06 0 0 5.93499e-16 0 0 
+ITEM: TIMESTEP
+239000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 7.61e-06 0 0 -1e-06 0 0 5.98882e-16 0 0 
+ITEM: TIMESTEP
+240000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 7.6e-06 0 0 -1e-06 0 0 6.04339e-16 0 0 
+ITEM: TIMESTEP
+241000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 7.59e-06 0 0 -1e-06 0 0 6.09871e-16 0 0 
+ITEM: TIMESTEP
+242000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 7.58e-06 0 0 -1e-06 0 0 6.15478e-16 0 0 
+ITEM: TIMESTEP
+243000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 7.57e-06 0 0 -1e-06 0 0 6.21164e-16 0 0 
+ITEM: TIMESTEP
+244000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 7.56e-06 0 0 -1e-06 0 0 6.26929e-16 0 0 
+ITEM: TIMESTEP
+245000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 7.55e-06 0 0 -1e-06 0 0 6.32774e-16 0 0 
+ITEM: TIMESTEP
+246000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 7.54e-06 0 0 -1e-06 0 0 6.38702e-16 0 0 
+ITEM: TIMESTEP
+247000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 7.53e-06 0 0 -1e-06 0 0 6.44713e-16 0 0 
+ITEM: TIMESTEP
+248000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 7.52e-06 0 0 -1e-06 0 0 6.5081e-16 0 0 
+ITEM: TIMESTEP
+249000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 7.51e-06 0 0 -1e-06 0 0 6.56993e-16 0 0 
+ITEM: TIMESTEP
+250000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 7.5e-06 0 0 -1e-06 0 0 6.63265e-16 0 0 
+ITEM: TIMESTEP
+251000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 7.49e-06 0 0 -1e-06 0 0 6.69628e-16 0 0 
+ITEM: TIMESTEP
+252000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 7.48e-06 0 0 -1e-06 0 0 6.76082e-16 0 0 
+ITEM: TIMESTEP
+253000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 7.47e-06 0 0 -1e-06 0 0 6.8263e-16 0 0 
+ITEM: TIMESTEP
+254000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 7.46e-06 0 0 -1e-06 0 0 6.89273e-16 0 0 
+ITEM: TIMESTEP
+255000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 7.45e-06 0 0 -1e-06 0 0 6.96014e-16 0 0 
+ITEM: TIMESTEP
+256000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 7.44e-06 0 0 -1e-06 0 0 7.02855e-16 0 0 
+ITEM: TIMESTEP
+257000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 7.43e-06 0 0 -1e-06 0 0 7.09796e-16 0 0 
+ITEM: TIMESTEP
+258000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 7.42e-06 0 0 -1e-06 0 0 7.16841e-16 0 0 
+ITEM: TIMESTEP
+259000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 7.41e-06 0 0 -1e-06 0 0 7.23992e-16 0 0 
+ITEM: TIMESTEP
+260000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 7.4e-06 0 0 -1e-06 0 0 7.3125e-16 0 0 
+ITEM: TIMESTEP
+261000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 7.39e-06 0 0 -1e-06 0 0 7.38618e-16 0 0 
+ITEM: TIMESTEP
+262000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 7.38e-06 0 0 -1e-06 0 0 7.46097e-16 0 0 
+ITEM: TIMESTEP
+263000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 7.37e-06 0 0 -1e-06 0 0 7.53691e-16 0 0 
+ITEM: TIMESTEP
+264000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 7.36e-06 0 0 -1e-06 0 0 7.61401e-16 0 0 
+ITEM: TIMESTEP
+265000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 7.35e-06 0 0 -1e-06 0 0 7.69231e-16 0 0 
+ITEM: TIMESTEP
+266000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 7.34e-06 0 0 -1e-06 0 0 7.77181e-16 0 0 
+ITEM: TIMESTEP
+267000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 7.33e-06 0 0 -1e-06 0 0 7.85256e-16 0 0 
+ITEM: TIMESTEP
+268000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 7.32e-06 0 0 -1e-06 0 0 7.93457e-16 0 0 
+ITEM: TIMESTEP
+269000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 7.31e-06 0 0 -1e-06 0 0 8.01787e-16 0 0 
+ITEM: TIMESTEP
+270000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 7.3e-06 0 0 -1e-06 0 0 8.10249e-16 0 0 
+ITEM: TIMESTEP
+271000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 7.29e-06 0 0 -1e-06 0 0 8.18846e-16 0 0 
+ITEM: TIMESTEP
+272000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 7.28e-06 0 0 -1e-06 0 0 8.2758e-16 0 0 
+ITEM: TIMESTEP
+273000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 7.27e-06 0 0 -1e-06 0 0 8.36455e-16 0 0 
+ITEM: TIMESTEP
+274000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 7.26e-06 0 0 -1e-06 0 0 8.45473e-16 0 0 
+ITEM: TIMESTEP
+275000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 7.25e-06 0 0 -1e-06 0 0 8.54638e-16 0 0 
+ITEM: TIMESTEP
+276000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 7.24e-06 0 0 -1e-06 0 0 8.63953e-16 0 0 
+ITEM: TIMESTEP
+277000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 7.23e-06 0 0 -1e-06 0 0 8.73421e-16 0 0 
+ITEM: TIMESTEP
+278000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 7.22e-06 0 0 -1e-06 0 0 8.83046e-16 0 0 
+ITEM: TIMESTEP
+279000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 7.21e-06 0 0 -1e-06 0 0 8.9283e-16 0 0 
+ITEM: TIMESTEP
+280000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 7.2e-06 0 0 -1e-06 0 0 9.02778e-16 0 0 
+ITEM: TIMESTEP
+281000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 7.19e-06 0 0 -1e-06 0 0 9.12893e-16 0 0 
+ITEM: TIMESTEP
+282000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 7.18e-06 0 0 -1e-06 0 0 9.23179e-16 0 0 
+ITEM: TIMESTEP
+283000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 7.17e-06 0 0 -1e-06 0 0 9.3364e-16 0 0 
+ITEM: TIMESTEP
+284000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 7.16e-06 0 0 -1e-06 0 0 9.44279e-16 0 0 
+ITEM: TIMESTEP
+285000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 7.15e-06 0 0 -1e-06 0 0 9.55102e-16 0 0 
+ITEM: TIMESTEP
+286000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 7.14e-06 0 0 -1e-06 0 0 9.66112e-16 0 0 
+ITEM: TIMESTEP
+287000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 7.13e-06 0 0 -1e-06 0 0 9.77313e-16 0 0 
+ITEM: TIMESTEP
+288000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 7.12e-06 0 0 -1e-06 0 0 9.8871e-16 0 0 
+ITEM: TIMESTEP
+289000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 7.11e-06 0 0 -1e-06 0 0 1.00031e-15 0 0 
+ITEM: TIMESTEP
+290000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 7.1e-06 0 0 -1e-06 0 0 1.01211e-15 0 0 
+ITEM: TIMESTEP
+291000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 7.09e-06 0 0 -1e-06 0 0 1.02412e-15 0 0 
+ITEM: TIMESTEP
+292000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 7.08e-06 0 0 -1e-06 0 0 1.03635e-15 0 0 
+ITEM: TIMESTEP
+293000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 7.07e-06 0 0 -1e-06 0 0 1.0488e-15 0 0 
+ITEM: TIMESTEP
+294000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 7.06e-06 0 0 -1e-06 0 0 1.06147e-15 0 0 
+ITEM: TIMESTEP
+295000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 7.05e-06 0 0 -1e-06 0 0 1.07438e-15 0 0 
+ITEM: TIMESTEP
+296000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 7.04e-06 0 0 -1e-06 0 0 1.08752e-15 0 0 
+ITEM: TIMESTEP
+297000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 7.03e-06 0 0 -1e-06 0 0 1.10091e-15 0 0 
+ITEM: TIMESTEP
+298000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 7.02e-06 0 0 -1e-06 0 0 1.11454e-15 0 0 
+ITEM: TIMESTEP
+299000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 7.01e-06 0 0 -1e-06 0 0 1.12843e-15 0 0 
+ITEM: TIMESTEP
+300000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 7e-06 0 0 -1e-06 0 0 1.14258e-15 0 0 
+ITEM: TIMESTEP
+301000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 6.99e-06 0 0 -1e-06 0 0 1.157e-15 0 0 
+ITEM: TIMESTEP
+302000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 6.98e-06 0 0 -1e-06 0 0 1.17169e-15 0 0 
+ITEM: TIMESTEP
+303000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 6.97e-06 0 0 -1e-06 0 0 1.18666e-15 0 0 
+ITEM: TIMESTEP
+304000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 6.96e-06 0 0 -1e-06 0 0 1.20192e-15 0 0 
+ITEM: TIMESTEP
+305000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 6.95e-06 0 0 -1e-06 0 0 1.21748e-15 0 0 
+ITEM: TIMESTEP
+306000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 6.94e-06 0 0 -1e-06 0 0 1.23334e-15 0 0 
+ITEM: TIMESTEP
+307000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 6.93e-06 0 0 -1e-06 0 0 1.24952e-15 0 0 
+ITEM: TIMESTEP
+308000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 6.92e-06 0 0 -1e-06 0 0 1.26601e-15 0 0 
+ITEM: TIMESTEP
+309000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 6.91e-06 0 0 -1e-06 0 0 1.28284e-15 0 0 
+ITEM: TIMESTEP
+310000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 6.9e-06 0 0 -1e-06 0 0 1.3e-15 0 0 
+ITEM: TIMESTEP
+311000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 6.89e-06 0 0 -1e-06 0 0 1.31751e-15 0 0 
+ITEM: TIMESTEP
+312000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 6.88e-06 0 0 -1e-06 0 0 1.33537e-15 0 0 
+ITEM: TIMESTEP
+313000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 6.87e-06 0 0 -1e-06 0 0 1.3536e-15 0 0 
+ITEM: TIMESTEP
+314000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 6.86e-06 0 0 -1e-06 0 0 1.37221e-15 0 0 
+ITEM: TIMESTEP
+315000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 6.85e-06 0 0 -1e-06 0 0 1.3912e-15 0 0 
+ITEM: TIMESTEP
+316000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 6.84e-06 0 0 -1e-06 0 0 1.41059e-15 0 0 
+ITEM: TIMESTEP
+317000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 6.83e-06 0 0 -1e-06 0 0 1.43039e-15 0 0 
+ITEM: TIMESTEP
+318000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 6.82e-06 0 0 -1e-06 0 0 1.45061e-15 0 0 
+ITEM: TIMESTEP
+319000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 6.81e-06 0 0 -1e-06 0 0 1.47125e-15 0 0 
+ITEM: TIMESTEP
+320000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 6.8e-06 0 0 -1e-06 0 0 1.49235e-15 0 0 
+ITEM: TIMESTEP
+321000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 6.79e-06 0 0 -1e-06 0 0 1.5139e-15 0 0 
+ITEM: TIMESTEP
+322000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 6.78e-06 0 0 -1e-06 0 0 1.53592e-15 0 0 
+ITEM: TIMESTEP
+323000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 6.77e-06 0 0 -1e-06 0 0 1.55842e-15 0 0 
+ITEM: TIMESTEP
+324000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 6.76e-06 0 0 -1e-06 0 0 1.58142e-15 0 0 
+ITEM: TIMESTEP
+325000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 6.75e-06 0 0 -1e-06 0 0 1.60494e-15 0 0 
+ITEM: TIMESTEP
+326000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 6.74e-06 0 0 -1e-06 0 0 1.62898e-15 0 0 
+ITEM: TIMESTEP
+327000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 6.73e-06 0 0 -1e-06 0 0 1.65357e-15 0 0 
+ITEM: TIMESTEP
+328000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 6.72e-06 0 0 -1e-06 0 0 1.67872e-15 0 0 
+ITEM: TIMESTEP
+329000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 6.71e-06 0 0 -1e-06 0 0 1.70445e-15 0 0 
+ITEM: TIMESTEP
+330000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 6.7e-06 0 0 -1e-06 0 0 1.73077e-15 0 0 
+ITEM: TIMESTEP
+331000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 6.69e-06 0 0 -1e-06 0 0 1.75771e-15 0 0 
+ITEM: TIMESTEP
+332000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 6.68e-06 0 0 -1e-06 0 0 1.78528e-15 0 0 
+ITEM: TIMESTEP
+333000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 6.67e-06 0 0 -1e-06 0 0 1.8135e-15 0 0 
+ITEM: TIMESTEP
+334000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 6.66e-06 0 0 -1e-06 0 0 1.8424e-15 0 0 
+ITEM: TIMESTEP
+335000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 6.65e-06 0 0 -1e-06 0 0 1.872e-15 0 0 
+ITEM: TIMESTEP
+336000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 6.64e-06 0 0 -1e-06 0 0 1.90232e-15 0 0 
+ITEM: TIMESTEP
+337000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 6.63e-06 0 0 -1e-06 0 0 1.93337e-15 0 0 
+ITEM: TIMESTEP
+338000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 6.62e-06 0 0 -1e-06 0 0 1.9652e-15 0 0 
+ITEM: TIMESTEP
+339000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 6.61e-06 0 0 -1e-06 0 0 1.99781e-15 0 0 
+ITEM: TIMESTEP
+340000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 6.6e-06 0 0 -1e-06 0 0 2.03125e-15 0 0 
+ITEM: TIMESTEP
+341000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 6.59e-06 0 0 -1e-06 0 0 2.06553e-15 0 0 
+ITEM: TIMESTEP
+342000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 6.58e-06 0 0 -1e-06 0 0 2.10069e-15 0 0 
+ITEM: TIMESTEP
+343000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 6.57e-06 0 0 -1e-06 0 0 2.13675e-15 0 0 
+ITEM: TIMESTEP
+344000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 6.56e-06 0 0 -1e-06 0 0 2.17375e-15 0 0 
+ITEM: TIMESTEP
+345000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 6.55e-06 0 0 -1e-06 0 0 2.21172e-15 0 0 
+ITEM: TIMESTEP
+346000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 6.54e-06 0 0 -1e-06 0 0 2.25069e-15 0 0 
+ITEM: TIMESTEP
+347000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 6.53e-06 0 0 -1e-06 0 0 2.2907e-15 0 0 
+ITEM: TIMESTEP
+348000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 6.52e-06 0 0 -1e-06 0 0 2.33179e-15 0 0 
+ITEM: TIMESTEP
+349000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 6.51e-06 0 0 -1e-06 0 0 2.374e-15 0 0 
+ITEM: TIMESTEP
+350000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 6.5e-06 0 0 -1e-06 0 0 2.41736e-15 0 0 
+ITEM: TIMESTEP
+351000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 6.49e-06 0 0 -1e-06 0 0 2.46191e-15 0 0 
+ITEM: TIMESTEP
+352000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 6.48e-06 0 0 -1e-06 0 0 2.50772e-15 0 0 
+ITEM: TIMESTEP
+353000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 6.47e-06 0 0 -1e-06 0 0 2.55481e-15 0 0 
+ITEM: TIMESTEP
+354000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 6.46e-06 0 0 -1e-06 0 0 2.60324e-15 0 0 
+ITEM: TIMESTEP
+355000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 6.45e-06 0 0 -1e-06 0 0 2.65306e-15 0 0 
+ITEM: TIMESTEP
+356000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 6.44e-06 0 0 -1e-06 0 0 2.70433e-15 0 0 
+ITEM: TIMESTEP
+357000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 6.43e-06 0 0 -1e-06 0 0 2.75709e-15 0 0 
+ITEM: TIMESTEP
+358000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 6.42e-06 0 0 -1e-06 0 0 2.81142e-15 0 0 
+ITEM: TIMESTEP
+359000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 6.41e-06 0 0 -1e-06 0 0 2.86737e-15 0 0 
+ITEM: TIMESTEP
+360000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 6.4e-06 0 0 -1e-06 0 0 2.925e-15 0 0 
+ITEM: TIMESTEP
+361000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 6.39e-06 0 0 -1e-06 0 0 2.98439e-15 0 0 
+ITEM: TIMESTEP
+362000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 6.38e-06 0 0 -1e-06 0 0 3.04561e-15 0 0 
+ITEM: TIMESTEP
+363000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 6.37e-06 0 0 -1e-06 0 0 3.10873e-15 0 0 
+ITEM: TIMESTEP
+364000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 6.36e-06 0 0 -1e-06 0 0 3.17383e-15 0 0 
+ITEM: TIMESTEP
+365000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 6.35e-06 0 0 -1e-06 0 0 3.241e-15 0 0 
+ITEM: TIMESTEP
+366000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 6.34e-06 0 0 -1e-06 0 0 3.31032e-15 0 0 
+ITEM: TIMESTEP
+367000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 6.33e-06 0 0 -1e-06 0 0 3.38189e-15 0 0 
+ITEM: TIMESTEP
+368000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 6.32e-06 0 0 -1e-06 0 0 3.45581e-15 0 0 
+ITEM: TIMESTEP
+369000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 6.31e-06 0 0 -1e-06 0 0 3.53218e-15 0 0 
+ITEM: TIMESTEP
+370000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 6.3e-06 0 0 -1e-06 0 0 3.61111e-15 0 0 
+ITEM: TIMESTEP
+371000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 6.29e-06 0 0 -1e-06 0 0 3.69272e-15 0 0 
+ITEM: TIMESTEP
+372000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 6.28e-06 0 0 -1e-06 0 0 3.77712e-15 0 0 
+ITEM: TIMESTEP
+373000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 6.27e-06 0 0 -1e-06 0 0 3.86445e-15 0 0 
+ITEM: TIMESTEP
+374000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 6.26e-06 0 0 -1e-06 0 0 3.95484e-15 0 0 
+ITEM: TIMESTEP
+375000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 6.25e-06 0 0 -1e-06 0 0 4.04844e-15 0 0 
+ITEM: TIMESTEP
+376000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 6.24e-06 0 0 -1e-06 0 0 4.14541e-15 0 0 
+ITEM: TIMESTEP
+377000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 6.23e-06 0 0 -1e-06 0 0 4.2459e-15 0 0 
+ITEM: TIMESTEP
+378000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 6.22e-06 0 0 -1e-06 0 0 4.35009e-15 0 0 
+ITEM: TIMESTEP
+379000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 6.21e-06 0 0 -1e-06 0 0 4.45816e-15 0 0 
+ITEM: TIMESTEP
+380000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 6.2e-06 0 0 -1e-06 0 0 4.57031e-15 0 0 
+ITEM: TIMESTEP
+381000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 6.19e-06 0 0 -1e-06 0 0 4.68675e-15 0 0 
+ITEM: TIMESTEP
+382000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 6.18e-06 0 0 -1e-06 0 0 4.80769e-15 0 0 
+ITEM: TIMESTEP
+383000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 6.17e-06 0 0 -1e-06 0 0 4.93338e-15 0 0 
+ITEM: TIMESTEP
+384000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 6.16e-06 0 0 -1e-06 0 0 5.06406e-15 0 0 
+ITEM: TIMESTEP
+385000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 6.15e-06 0 0 -1e-06 0 0 5.2e-15 0 0 
+ITEM: TIMESTEP
+386000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 6.14e-06 0 0 -1e-06 0 0 5.34149e-15 0 0 
+ITEM: TIMESTEP
+387000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 6.13e-06 0 0 -1e-06 0 0 5.48883e-15 0 0 
+ITEM: TIMESTEP
+388000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 6.12e-06 0 0 -1e-06 0 0 5.64236e-15 0 0 
+ITEM: TIMESTEP
+389000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 6.11e-06 0 0 -1e-06 0 0 5.80242e-15 0 0 
+ITEM: TIMESTEP
+390000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 6.1e-06 0 0 -1e-06 0 0 5.96939e-15 0 0 
+ITEM: TIMESTEP
+391000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 6.09e-06 0 0 -1e-06 0 0 6.14367e-15 0 0 
+ITEM: TIMESTEP
+392000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 6.08e-06 0 0 -1e-06 0 0 6.32569e-15 0 0 
+ITEM: TIMESTEP
+393000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 6.07e-06 0 0 -1e-06 0 0 6.51593e-15 0 0 
+ITEM: TIMESTEP
+394000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 6.06e-06 0 0 -1e-06 0 0 6.71488e-15 0 0 
+ITEM: TIMESTEP
+395000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 6.05e-06 0 0 -1e-06 0 0 6.92308e-15 0 0 
+ITEM: TIMESTEP
+396000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 6.04e-06 0 0 -1e-06 0 0 7.14111e-15 0 0 
+ITEM: TIMESTEP
+397000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 6.03e-06 0 0 -1e-06 0 0 7.36961e-15 0 0 
+ITEM: TIMESTEP
+398000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 6.02e-06 0 0 -1e-06 0 0 7.60926e-15 0 0 
+ITEM: TIMESTEP
+399000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 6.01e-06 0 0 -1e-06 0 0 7.86079e-15 0 0 
+ITEM: TIMESTEP
+400000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 6e-06 0 0 -1e-06 0 0 8.125e-15 0 0 
+ITEM: TIMESTEP
+401000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 5.99e-06 0 0 -1e-06 0 0 8.40276e-15 0 0 
+ITEM: TIMESTEP
+402000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 5.98e-06 0 0 -1e-06 0 0 8.69501e-15 0 0 
+ITEM: TIMESTEP
+403000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 5.97e-06 0 0 -1e-06 0 0 9.00277e-15 0 0 
+ITEM: TIMESTEP
+404000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 5.96e-06 0 0 -1e-06 0 0 9.32717e-15 0 0 
+ITEM: TIMESTEP
+405000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 5.95e-06 0 0 -1e-06 0 0 9.66942e-15 0 0 
+ITEM: TIMESTEP
+406000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 5.94e-06 0 0 -1e-06 0 0 1.00309e-14 0 0 
+ITEM: TIMESTEP
+407000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 5.93e-06 0 0 -1e-06 0 0 1.0413e-14 0 0 
+ITEM: TIMESTEP
+408000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 5.92e-06 0 0 -1e-06 0 0 1.08173e-14 0 0 
+ITEM: TIMESTEP
+409000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 5.91e-06 0 0 -1e-06 0 0 1.12457e-14 0 0 
+ITEM: TIMESTEP
+410000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 5.9e-06 0 0 -1e-06 0 0 1.17e-14 0 0 
+ITEM: TIMESTEP
+411000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 5.89e-06 0 0 -1e-06 0 0 1.21824e-14 0 0 
+ITEM: TIMESTEP
+412000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 5.88e-06 0 0 -1e-06 0 0 1.26953e-14 0 0 
+ITEM: TIMESTEP
+413000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 5.87e-06 0 0 -1e-06 0 0 1.32413e-14 0 0 
+ITEM: TIMESTEP
+414000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 5.86e-06 0 0 -1e-06 0 0 1.38233e-14 0 0 
+ITEM: TIMESTEP
+415000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 5.85e-06 0 0 -1e-06 0 0 1.44444e-14 0 0 
+ITEM: TIMESTEP
+416000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 5.84e-06 0 0 -1e-06 0 0 1.51085e-14 0 0 
+ITEM: TIMESTEP
+417000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 5.83e-06 0 0 -1e-06 0 0 1.58194e-14 0 0 
+ITEM: TIMESTEP
+418000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 5.82e-06 0 0 -1e-06 0 0 1.65816e-14 0 0 
+ITEM: TIMESTEP
+419000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 5.81e-06 0 0 -1e-06 0 0 1.74004e-14 0 0 
+ITEM: TIMESTEP
+420000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 5.8e-06 0 0 -1e-06 0 0 1.82813e-14 0 0 
+ITEM: TIMESTEP
+421000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 5.79e-06 0 0 -1e-06 0 0 1.92308e-14 0 0 
+ITEM: TIMESTEP
+422000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 5.78e-06 0 0 -1e-06 0 0 2.02562e-14 0 0 
+ITEM: TIMESTEP
+423000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 5.77e-06 0 0 -1e-06 0 0 2.1366e-14 0 0 
+ITEM: TIMESTEP
+424000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 5.76e-06 0 0 -1e-06 0 0 2.25694e-14 0 0 
+ITEM: TIMESTEP
+425000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 5.75e-06 0 0 -1e-06 0 0 2.38776e-14 0 0 
+ITEM: TIMESTEP
+426000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 5.74e-06 0 0 -1e-06 0 0 2.53028e-14 0 0 
+ITEM: TIMESTEP
+427000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 5.73e-06 0 0 -1e-06 0 0 2.68595e-14 0 0 
+ITEM: TIMESTEP
+428000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 5.72e-06 0 0 -1e-06 0 0 2.85645e-14 0 0 
+ITEM: TIMESTEP
+429000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 5.71e-06 0 0 -1e-06 0 0 3.0437e-14 0 0 
+ITEM: TIMESTEP
+430000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 5.7e-06 0 0 -1e-06 0 0 3.25e-14 0 0 
+ITEM: TIMESTEP
+431000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 5.69e-06 0 0 -1e-06 0 0 3.478e-14 0 0 
+ITEM: TIMESTEP
+432000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 5.68e-06 0 0 -1e-06 0 0 3.73087e-14 0 0 
+ITEM: TIMESTEP
+433000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 5.67e-06 0 0 -1e-06 0 0 4.01235e-14 0 0 
+ITEM: TIMESTEP
+434000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 5.66e-06 0 0 -1e-06 0 0 4.32692e-14 0 0 
+ITEM: TIMESTEP
+435000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 5.65e-06 0 0 -1e-06 0 0 4.68e-14 0 0 
+ITEM: TIMESTEP
+436000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 5.64e-06 0 0 -1e-06 0 0 5.07813e-14 0 0 
+ITEM: TIMESTEP
+437000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 5.63e-06 0 0 -1e-06 0 0 5.5293e-14 0 0 
+ITEM: TIMESTEP
+438000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 5.62e-06 0 0 -1e-06 0 0 6.04339e-14 0 0 
+ITEM: TIMESTEP
+439000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 5.61e-06 0 0 -1e-06 0 0 6.63265e-14 0 0 
+ITEM: TIMESTEP
+440000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 5.6e-06 0 0 -1e-06 0 0 7.3125e-14 0 0 
+ITEM: TIMESTEP
+441000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 5.59e-06 0 0 -1e-06 0 0 8.10249e-14 0 0 
+ITEM: TIMESTEP
+442000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 5.58e-06 0 0 -1e-06 0 0 9.02778e-14 0 0 
+ITEM: TIMESTEP
+443000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 5.57e-06 0 0 -1e-06 0 0 1.01211e-13 0 0 
+ITEM: TIMESTEP
+444000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 5.56e-06 0 0 -1e-06 0 0 1.14258e-13 0 0 
+ITEM: TIMESTEP
+445000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 5.55e-06 0 0 -1e-06 0 0 1.3e-13 0 0 
+ITEM: TIMESTEP
+446000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 5.54e-06 0 0 -1e-06 0 0 1.49235e-13 0 0 
+ITEM: TIMESTEP
+447000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 5.53e-06 0 0 -1e-06 0 0 1.73077e-13 0 0 
+ITEM: TIMESTEP
+448000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 5.52e-06 0 0 -1e-06 0 0 2.03125e-13 0 0 
+ITEM: TIMESTEP
+449000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 5.51e-06 0 0 -1e-06 0 0 2.41736e-13 0 0 
+ITEM: TIMESTEP
+450000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 5.5e-06 0 0 -1e-06 0 0 2.925e-13 0 0 
+ITEM: TIMESTEP
+451000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 5.49e-06 0 0 -1e-06 0 0 3.61111e-13 0 0 
+ITEM: TIMESTEP
+452000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 5.48e-06 0 0 -1e-06 0 0 4.57031e-13 0 0 
+ITEM: TIMESTEP
+453000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 5.47e-06 0 0 -1e-06 0 0 5.96939e-13 0 0 
+ITEM: TIMESTEP
+454000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 5.46e-06 0 0 -1e-06 0 0 8.125e-13 0 0 
+ITEM: TIMESTEP
+455000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 5.45e-06 0 0 -1e-06 0 0 1.17e-12 0 0 
+ITEM: TIMESTEP
+456000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 5.44e-06 0 0 -1e-06 0 0 1.82813e-12 0 0 
+ITEM: TIMESTEP
+457000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 5.43e-06 0 0 -1e-06 0 0 3.25e-12 0 0 
+ITEM: TIMESTEP
+458000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 5.42e-06 0 0 -1e-06 0 0 7.3125e-12 0 0 
+ITEM: TIMESTEP
+459000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 5.41e-06 0 0 -1e-06 0 0 2.925e-11 0 0 
+ITEM: TIMESTEP
+460000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 5.4e-06 0 0 -1e-06 0 0 4.07685e+15 0 0 
+ITEM: TIMESTEP
+461000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 5.39e-06 0 0 -1e-06 0 0 8.5725e-10 0 0 
+ITEM: TIMESTEP
+462000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 5.38e-06 0 0 -1e-06 0 0 1.66331e-09 0 0 
+ITEM: TIMESTEP
+463000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 5.37e-06 0 0 -1e-06 0 0 2.48725e-09 0 0 
+ITEM: TIMESTEP
+464000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 5.36e-06 0 0 -1e-06 0 0 3.31383e-09 0 0 
+ITEM: TIMESTEP
+465000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 5.35e-06 0 0 -1e-06 0 0 4.14117e-09 0 0 
+ITEM: TIMESTEP
+466000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 5.34e-06 0 0 -1e-06 0 0 4.96881e-09 0 0 
+ITEM: TIMESTEP
+467000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 5.33e-06 0 0 -1e-06 0 0 5.7966e-09 0 0 
+ITEM: TIMESTEP
+468000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 5.32e-06 0 0 -1e-06 0 0 6.62446e-09 0 0 
+ITEM: TIMESTEP
+469000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 5.31e-06 0 0 -1e-06 0 0 7.45236e-09 0 0 
+ITEM: TIMESTEP
+470000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 5.3e-06 0 0 -1e-06 0 0 8.28029e-09 0 0 
+ITEM: TIMESTEP
+471000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 5.29e-06 0 0 -1e-06 0 0 9.10824e-09 0 0 
+ITEM: TIMESTEP
+472000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 5.28e-06 0 0 -1e-06 0 0 9.9362e-09 0 0 
+ITEM: TIMESTEP
+473000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 5.27e-06 0 0 -1e-06 0 0 1.07642e-08 0 0 
+ITEM: TIMESTEP
+474000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 5.26e-06 0 0 -1e-06 0 0 1.15921e-08 0 0 
+ITEM: TIMESTEP
+475000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 5.25e-06 0 0 -1e-06 0 0 1.24201e-08 0 0 
+ITEM: TIMESTEP
+476000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 5.24e-06 0 0 -1e-06 0 0 1.32481e-08 0 0 
+ITEM: TIMESTEP
+477000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 5.23e-06 0 0 -1e-06 0 0 1.40761e-08 0 0 
+ITEM: TIMESTEP
+478000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 5.22e-06 0 0 -1e-06 0 0 1.49041e-08 0 0 
+ITEM: TIMESTEP
+479000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 5.21e-06 0 0 -1e-06 0 0 1.57321e-08 0 0 
+ITEM: TIMESTEP
+480000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 5.2e-06 0 0 -1e-06 0 0 1.65601e-08 0 0 
+ITEM: TIMESTEP
+481000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 5.19e-06 0 0 -1e-06 0 0 1.73881e-08 0 0 
+ITEM: TIMESTEP
+482000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 5.18e-06 0 0 -1e-06 0 0 1.82161e-08 0 0 
+ITEM: TIMESTEP
+483000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 5.17e-06 0 0 -1e-06 0 0 1.90441e-08 0 0 
+ITEM: TIMESTEP
+484000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 5.16e-06 0 0 -1e-06 0 0 1.98721e-08 0 0 
+ITEM: TIMESTEP
+485000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 5.15e-06 0 0 -1e-06 0 0 2.07e-08 0 0 
+ITEM: TIMESTEP
+486000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 5.14e-06 0 0 -1e-06 0 0 2.1528e-08 0 0 
+ITEM: TIMESTEP
+487000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 5.13e-06 0 0 -1e-06 0 0 2.2356e-08 0 0 
+ITEM: TIMESTEP
+488000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 5.12e-06 0 0 -1e-06 0 0 2.3184e-08 0 0 
+ITEM: TIMESTEP
+489000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 5.11e-06 0 0 -1e-06 0 0 2.4012e-08 0 0 
+ITEM: TIMESTEP
+490000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 5.1e-06 0 0 -1e-06 0 0 2.484e-08 0 0 
+ITEM: TIMESTEP
+491000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 5.09e-06 0 0 -1e-06 0 0 2.5668e-08 0 0 
+ITEM: TIMESTEP
+492000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 5.08e-06 0 0 -1e-06 0 0 2.6496e-08 0 0 
+ITEM: TIMESTEP
+493000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 5.07e-06 0 0 -1e-06 0 0 2.7324e-08 0 0 
+ITEM: TIMESTEP
+494000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 5.06e-06 0 0 -1e-06 0 0 2.8152e-08 0 0 
+ITEM: TIMESTEP
+495000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 5.05e-06 0 0 -1e-06 0 0 2.898e-08 0 0 
+ITEM: TIMESTEP
+496000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 5.04e-06 0 0 -1e-06 0 0 2.9808e-08 0 0 
+ITEM: TIMESTEP
+497000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 5.03e-06 0 0 -1e-06 0 0 3.0636e-08 0 0 
+ITEM: TIMESTEP
+498000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 5.02e-06 0 0 -1e-06 0 0 3.1464e-08 0 0 
+ITEM: TIMESTEP
+499000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 5.01e-06 0 0 -1e-06 0 0 3.2292e-08 0 0 
+ITEM: TIMESTEP
+500000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 5e-06 0 0 -1e-06 0 0 3.312e-08 0 0 
+ITEM: TIMESTEP
+501000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 4.99e-06 0 0 -1e-06 0 0 3.3948e-08 0 0 
+ITEM: TIMESTEP
+502000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 4.98e-06 0 0 -1e-06 0 0 3.4776e-08 0 0 
+ITEM: TIMESTEP
+503000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 4.97e-06 0 0 -1e-06 0 0 3.5604e-08 0 0 
+ITEM: TIMESTEP
+504000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 4.96e-06 0 0 -1e-06 0 0 3.6432e-08 0 0 
+ITEM: TIMESTEP
+505000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 4.95e-06 0 0 -1e-06 0 0 3.726e-08 0 0 
+ITEM: TIMESTEP
+506000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 4.94e-06 0 0 -1e-06 0 0 3.8088e-08 0 0 
+ITEM: TIMESTEP
+507000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 4.93e-06 0 0 -1e-06 0 0 3.8916e-08 0 0 
+ITEM: TIMESTEP
+508000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 4.92e-06 0 0 -1e-06 0 0 3.9744e-08 0 0 
+ITEM: TIMESTEP
+509000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 4.91e-06 0 0 -1e-06 0 0 4.0572e-08 0 0 
+ITEM: TIMESTEP
+510000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 4.9e-06 0 0 -1e-06 0 0 4.14e-08 0 0 
+ITEM: TIMESTEP
+511000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 4.89e-06 0 0 -1e-06 0 0 4.2228e-08 0 0 
+ITEM: TIMESTEP
+512000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 4.88e-06 0 0 -1e-06 0 0 4.3056e-08 0 0 
+ITEM: TIMESTEP
+513000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 4.87e-06 0 0 -1e-06 0 0 4.3884e-08 0 0 
+ITEM: TIMESTEP
+514000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 4.86e-06 0 0 -1e-06 0 0 4.4712e-08 0 0 
+ITEM: TIMESTEP
+515000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 4.85e-06 0 0 -1e-06 0 0 4.554e-08 0 0 
+ITEM: TIMESTEP
+516000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 4.84e-06 0 0 -1e-06 0 0 4.6368e-08 0 0 
+ITEM: TIMESTEP
+517000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 4.83e-06 0 0 -1e-06 0 0 4.7196e-08 0 0 
+ITEM: TIMESTEP
+518000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 4.82e-06 0 0 -1e-06 0 0 4.8024e-08 0 0 
+ITEM: TIMESTEP
+519000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 4.81e-06 0 0 -1e-06 0 0 4.8852e-08 0 0 
+ITEM: TIMESTEP
+520000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 4.8e-06 0 0 -1e-06 0 0 4.968e-08 0 0 
+ITEM: TIMESTEP
+521000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 4.79e-06 0 0 -1e-06 0 0 5.0508e-08 0 0 
+ITEM: TIMESTEP
+522000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 4.78e-06 0 0 -1e-06 0 0 5.1336e-08 0 0 
+ITEM: TIMESTEP
+523000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 4.77e-06 0 0 -1e-06 0 0 5.2164e-08 0 0 
+ITEM: TIMESTEP
+524000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 4.76e-06 0 0 -1e-06 0 0 5.2992e-08 0 0 
+ITEM: TIMESTEP
+525000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 4.75e-06 0 0 -1e-06 0 0 5.382e-08 0 0 
+ITEM: TIMESTEP
+526000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 4.74e-06 0 0 -1e-06 0 0 5.4648e-08 0 0 
+ITEM: TIMESTEP
+527000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 4.73e-06 0 0 -1e-06 0 0 5.5476e-08 0 0 
+ITEM: TIMESTEP
+528000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 4.72e-06 0 0 -1e-06 0 0 5.6304e-08 0 0 
+ITEM: TIMESTEP
+529000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 4.71e-06 0 0 -1e-06 0 0 5.7132e-08 0 0 
+ITEM: TIMESTEP
+530000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 4.7e-06 0 0 -1e-06 0 0 5.796e-08 0 0 
+ITEM: TIMESTEP
+531000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 4.69e-06 0 0 -1e-06 0 0 5.8788e-08 0 0 
+ITEM: TIMESTEP
+532000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 4.68e-06 0 0 -1e-06 0 0 5.9616e-08 0 0 
+ITEM: TIMESTEP
+533000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 4.67e-06 0 0 -1e-06 0 0 6.0444e-08 0 0 
+ITEM: TIMESTEP
+534000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 4.66e-06 0 0 -1e-06 0 0 6.1272e-08 0 0 
+ITEM: TIMESTEP
+535000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 4.65e-06 0 0 -1e-06 0 0 6.21e-08 0 0 
+ITEM: TIMESTEP
+536000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 4.64e-06 0 0 -1e-06 0 0 6.2928e-08 0 0 
+ITEM: TIMESTEP
+537000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 4.63e-06 0 0 -1e-06 0 0 6.3756e-08 0 0 
+ITEM: TIMESTEP
+538000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 4.62e-06 0 0 -1e-06 0 0 6.4584e-08 0 0 
+ITEM: TIMESTEP
+539000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 4.61e-06 0 0 -1e-06 0 0 6.5412e-08 0 0 
+ITEM: TIMESTEP
+540000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 4.6e-06 0 0 -1e-06 0 0 6.624e-08 0 0 
+ITEM: TIMESTEP
+541000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 4.59e-06 0 0 -1e-06 0 0 6.7068e-08 0 0 
+ITEM: TIMESTEP
+542000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 4.58e-06 0 0 -1e-06 0 0 6.7896e-08 0 0 
+ITEM: TIMESTEP
+543000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 4.57e-06 0 0 -1e-06 0 0 6.8724e-08 0 0 
+ITEM: TIMESTEP
+544000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 4.56e-06 0 0 -1e-06 0 0 6.9552e-08 0 0 
+ITEM: TIMESTEP
+545000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 4.55e-06 0 0 -1e-06 0 0 7.038e-08 0 0 
+ITEM: TIMESTEP
+546000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 4.54e-06 0 0 -1e-06 0 0 7.1208e-08 0 0 
+ITEM: TIMESTEP
+547000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 4.53e-06 0 0 -1e-06 0 0 7.2036e-08 0 0 
+ITEM: TIMESTEP
+548000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 4.52e-06 0 0 -1e-06 0 0 7.2864e-08 0 0 
+ITEM: TIMESTEP
+549000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 4.51e-06 0 0 -1e-06 0 0 7.3692e-08 0 0 
+ITEM: TIMESTEP
+550000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 4.5e-06 0 0 -1e-06 0 0 7.452e-08 0 0 
+ITEM: TIMESTEP
+551000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 4.49e-06 0 0 -1e-06 0 0 7.5348e-08 0 0 
+ITEM: TIMESTEP
+552000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 4.48e-06 0 0 -1e-06 0 0 7.6176e-08 0 0 
+ITEM: TIMESTEP
+553000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 4.47e-06 0 0 -1e-06 0 0 7.7004e-08 0 0 
+ITEM: TIMESTEP
+554000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 4.46e-06 0 0 -1e-06 0 0 7.7832e-08 0 0 
+ITEM: TIMESTEP
+555000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 4.45e-06 0 0 -1e-06 0 0 7.866e-08 0 0 
+ITEM: TIMESTEP
+556000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 4.44e-06 0 0 -1e-06 0 0 7.9488e-08 0 0 
+ITEM: TIMESTEP
+557000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 4.43e-06 0 0 -1e-06 0 0 8.0316e-08 0 0 
+ITEM: TIMESTEP
+558000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 4.42e-06 0 0 -1e-06 0 0 8.1144e-08 0 0 
+ITEM: TIMESTEP
+559000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 4.41e-06 0 0 -1e-06 0 0 8.1972e-08 0 0 
+ITEM: TIMESTEP
+560000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 4.4e-06 0 0 -1e-06 0 0 8.28e-08 0 0 
+ITEM: TIMESTEP
+561000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 4.39e-06 0 0 -1e-06 0 0 8.3628e-08 0 0 
+ITEM: TIMESTEP
+562000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 4.38e-06 0 0 -1e-06 0 0 8.4456e-08 0 0 
+ITEM: TIMESTEP
+563000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 4.37e-06 0 0 -1e-06 0 0 8.5284e-08 0 0 
+ITEM: TIMESTEP
+564000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 4.36e-06 0 0 -1e-06 0 0 8.6112e-08 0 0 
+ITEM: TIMESTEP
+565000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 4.35e-06 0 0 -1e-06 0 0 8.694e-08 0 0 
+ITEM: TIMESTEP
+566000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 4.34e-06 0 0 -1e-06 0 0 8.7768e-08 0 0 
+ITEM: TIMESTEP
+567000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 4.33e-06 0 0 -1e-06 0 0 8.8596e-08 0 0 
+ITEM: TIMESTEP
+568000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 4.32e-06 0 0 -1e-06 0 0 8.9424e-08 0 0 
+ITEM: TIMESTEP
+569000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 4.31e-06 0 0 -1e-06 0 0 9.0252e-08 0 0 
+ITEM: TIMESTEP
+570000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 4.3e-06 0 0 -1e-06 0 0 9.108e-08 0 0 
+ITEM: TIMESTEP
+571000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 4.29e-06 0 0 -1e-06 0 0 9.1908e-08 0 0 
+ITEM: TIMESTEP
+572000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 4.28e-06 0 0 -1e-06 0 0 9.2736e-08 0 0 
+ITEM: TIMESTEP
+573000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 4.27e-06 0 0 -1e-06 0 0 9.3564e-08 0 0 
+ITEM: TIMESTEP
+574000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 4.26e-06 0 0 -1e-06 0 0 9.4392e-08 0 0 
+ITEM: TIMESTEP
+575000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 4.25e-06 0 0 -1e-06 0 0 9.522e-08 0 0 
+ITEM: TIMESTEP
+576000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 4.24e-06 0 0 -1e-06 0 0 9.6048e-08 0 0 
+ITEM: TIMESTEP
+577000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 4.23e-06 0 0 -1e-06 0 0 9.6876e-08 0 0 
+ITEM: TIMESTEP
+578000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 4.22e-06 0 0 -1e-06 0 0 9.7704e-08 0 0 
+ITEM: TIMESTEP
+579000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 4.21e-06 0 0 -1e-06 0 0 9.8532e-08 0 0 
+ITEM: TIMESTEP
+580000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 4.2e-06 0 0 -1e-06 0 0 9.936e-08 0 0 
+ITEM: TIMESTEP
+581000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 4.19e-06 0 0 -1e-06 0 0 1.00188e-07 0 0 
+ITEM: TIMESTEP
+582000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 4.18e-06 0 0 -1e-06 0 0 1.01016e-07 0 0 
+ITEM: TIMESTEP
+583000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 4.17e-06 0 0 -1e-06 0 0 1.01844e-07 0 0 
+ITEM: TIMESTEP
+584000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 4.16e-06 0 0 -1e-06 0 0 1.02672e-07 0 0 
+ITEM: TIMESTEP
+585000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 4.15e-06 0 0 -1e-06 0 0 1.035e-07 0 0 
+ITEM: TIMESTEP
+586000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 4.14e-06 0 0 -1e-06 0 0 1.04328e-07 0 0 
+ITEM: TIMESTEP
+587000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 4.13e-06 0 0 -1e-06 0 0 1.05156e-07 0 0 
+ITEM: TIMESTEP
+588000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 4.12e-06 0 0 -1e-06 0 0 1.05984e-07 0 0 
+ITEM: TIMESTEP
+589000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 4.11e-06 0 0 -1e-06 0 0 1.06812e-07 0 0 
+ITEM: TIMESTEP
+590000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 4.1e-06 0 0 -1e-06 0 0 1.0764e-07 0 0 
+ITEM: TIMESTEP
+591000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 4.09e-06 0 0 -1e-06 0 0 1.08468e-07 0 0 
+ITEM: TIMESTEP
+592000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 4.08e-06 0 0 -1e-06 0 0 1.09296e-07 0 0 
+ITEM: TIMESTEP
+593000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 4.07e-06 0 0 -1e-06 0 0 1.10124e-07 0 0 
+ITEM: TIMESTEP
+594000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 4.06e-06 0 0 -1e-06 0 0 1.10952e-07 0 0 
+ITEM: TIMESTEP
+595000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 4.05e-06 0 0 -1e-06 0 0 1.1178e-07 0 0 
+ITEM: TIMESTEP
+596000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 4.04e-06 0 0 -1e-06 0 0 1.12608e-07 0 0 
+ITEM: TIMESTEP
+597000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 4.03e-06 0 0 -1e-06 0 0 1.13436e-07 0 0 
+ITEM: TIMESTEP
+598000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 4.02e-06 0 0 -1e-06 0 0 1.14264e-07 0 0 
+ITEM: TIMESTEP
+599000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 4.01e-06 0 0 -1e-06 0 0 1.15092e-07 0 0 
+ITEM: TIMESTEP
+600000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 4e-06 0 0 -1e-06 0 0 1.1592e-07 0 0 
+ITEM: TIMESTEP
+601000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 3.99e-06 0 0 -1e-06 0 0 1.16748e-07 0 0 
+ITEM: TIMESTEP
+602000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 3.98e-06 0 0 -1e-06 0 0 1.17576e-07 0 0 
+ITEM: TIMESTEP
+603000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 3.97e-06 0 0 -1e-06 0 0 1.18404e-07 0 0 
+ITEM: TIMESTEP
+604000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 3.96e-06 0 0 -1e-06 0 0 1.19232e-07 0 0 
+ITEM: TIMESTEP
+605000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 3.95e-06 0 0 -1e-06 0 0 1.2006e-07 0 0 
+ITEM: TIMESTEP
+606000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 3.94e-06 0 0 -1e-06 0 0 1.20888e-07 0 0 
+ITEM: TIMESTEP
+607000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 3.93e-06 0 0 -1e-06 0 0 1.21716e-07 0 0 
+ITEM: TIMESTEP
+608000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 3.92e-06 0 0 -1e-06 0 0 1.22544e-07 0 0 
+ITEM: TIMESTEP
+609000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 3.91e-06 0 0 -1e-06 0 0 1.23372e-07 0 0 
+ITEM: TIMESTEP
+610000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 3.9e-06 0 0 -1e-06 0 0 1.242e-07 0 0 
+ITEM: TIMESTEP
+611000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 3.89e-06 0 0 -1e-06 0 0 1.25028e-07 0 0 
+ITEM: TIMESTEP
+612000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 3.88e-06 0 0 -1e-06 0 0 1.25856e-07 0 0 
+ITEM: TIMESTEP
+613000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 3.87e-06 0 0 -1e-06 0 0 1.26684e-07 0 0 
+ITEM: TIMESTEP
+614000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 3.86e-06 0 0 -1e-06 0 0 1.27512e-07 0 0 
+ITEM: TIMESTEP
+615000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 3.85e-06 0 0 -1e-06 0 0 1.2834e-07 0 0 
+ITEM: TIMESTEP
+616000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 3.84e-06 0 0 -1e-06 0 0 1.29168e-07 0 0 
+ITEM: TIMESTEP
+617000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 3.83e-06 0 0 -1e-06 0 0 1.29996e-07 0 0 
+ITEM: TIMESTEP
+618000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 3.82e-06 0 0 -1e-06 0 0 1.30824e-07 0 0 
+ITEM: TIMESTEP
+619000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 3.81e-06 0 0 -1e-06 0 0 1.31652e-07 0 0 
+ITEM: TIMESTEP
+620000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 3.8e-06 0 0 -1e-06 0 0 1.3248e-07 0 0 
+ITEM: TIMESTEP
+621000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 3.79e-06 0 0 -1e-06 0 0 1.33308e-07 0 0 
+ITEM: TIMESTEP
+622000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 3.78e-06 0 0 -1e-06 0 0 1.34136e-07 0 0 
+ITEM: TIMESTEP
+623000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 3.77e-06 0 0 -1e-06 0 0 1.34964e-07 0 0 
+ITEM: TIMESTEP
+624000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 3.76e-06 0 0 -1e-06 0 0 1.35792e-07 0 0 
+ITEM: TIMESTEP
+625000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 3.75e-06 0 0 -1e-06 0 0 1.3662e-07 0 0 
+ITEM: TIMESTEP
+626000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 3.74e-06 0 0 -1e-06 0 0 1.37448e-07 0 0 
+ITEM: TIMESTEP
+627000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 3.73e-06 0 0 -1e-06 0 0 1.38276e-07 0 0 
+ITEM: TIMESTEP
+628000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 3.72e-06 0 0 -1e-06 0 0 1.39104e-07 0 0 
+ITEM: TIMESTEP
+629000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 3.71e-06 0 0 -1e-06 0 0 1.39932e-07 0 0 
+ITEM: TIMESTEP
+630000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 3.7e-06 0 0 -1e-06 0 0 1.4076e-07 0 0 
+ITEM: TIMESTEP
+631000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 3.69e-06 0 0 -1e-06 0 0 1.41588e-07 0 0 
+ITEM: TIMESTEP
+632000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 3.68e-06 0 0 -1e-06 0 0 1.42416e-07 0 0 
+ITEM: TIMESTEP
+633000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 3.67e-06 0 0 -1e-06 0 0 1.43244e-07 0 0 
+ITEM: TIMESTEP
+634000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 3.66e-06 0 0 -1e-06 0 0 1.44072e-07 0 0 
+ITEM: TIMESTEP
+635000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 3.65e-06 0 0 -1e-06 0 0 1.449e-07 0 0 
+ITEM: TIMESTEP
+636000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 3.64e-06 0 0 -1e-06 0 0 1.45728e-07 0 0 
+ITEM: TIMESTEP
+637000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 3.63e-06 0 0 -1e-06 0 0 1.46556e-07 0 0 
+ITEM: TIMESTEP
+638000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 3.62e-06 0 0 -1e-06 0 0 1.47384e-07 0 0 
+ITEM: TIMESTEP
+639000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 3.61e-06 0 0 -1e-06 0 0 1.48212e-07 0 0 
+ITEM: TIMESTEP
+640000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 3.6e-06 0 0 -1e-06 0 0 1.4904e-07 0 0 
+ITEM: TIMESTEP
+641000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 3.59e-06 0 0 -1e-06 0 0 1.49868e-07 0 0 
+ITEM: TIMESTEP
+642000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 3.58e-06 0 0 -1e-06 0 0 1.50696e-07 0 0 
+ITEM: TIMESTEP
+643000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 3.57e-06 0 0 -1e-06 0 0 1.51524e-07 0 0 
+ITEM: TIMESTEP
+644000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 3.56e-06 0 0 -1e-06 0 0 1.52352e-07 0 0 
+ITEM: TIMESTEP
+645000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 3.55e-06 0 0 -1e-06 0 0 1.5318e-07 0 0 
+ITEM: TIMESTEP
+646000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 3.54e-06 0 0 -1e-06 0 0 1.54008e-07 0 0 
+ITEM: TIMESTEP
+647000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 3.53e-06 0 0 -1e-06 0 0 1.54836e-07 0 0 
+ITEM: TIMESTEP
+648000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 3.52e-06 0 0 -1e-06 0 0 1.55664e-07 0 0 
+ITEM: TIMESTEP
+649000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 3.51e-06 0 0 -1e-06 0 0 1.56492e-07 0 0 
+ITEM: TIMESTEP
+650000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 3.5e-06 0 0 -1e-06 0 0 1.5732e-07 0 0 
+ITEM: TIMESTEP
+651000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 3.49e-06 0 0 -1e-06 0 0 1.58148e-07 0 0 
+ITEM: TIMESTEP
+652000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 3.48e-06 0 0 -1e-06 0 0 1.58976e-07 0 0 
+ITEM: TIMESTEP
+653000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 3.47e-06 0 0 -1e-06 0 0 1.59804e-07 0 0 
+ITEM: TIMESTEP
+654000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 3.46e-06 0 0 -1e-06 0 0 1.60632e-07 0 0 
+ITEM: TIMESTEP
+655000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 3.45e-06 0 0 -1e-06 0 0 1.6146e-07 0 0 
+ITEM: TIMESTEP
+656000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 3.44e-06 0 0 -1e-06 0 0 1.62288e-07 0 0 
+ITEM: TIMESTEP
+657000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 3.43e-06 0 0 -1e-06 0 0 1.63116e-07 0 0 
+ITEM: TIMESTEP
+658000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 3.42e-06 0 0 -1e-06 0 0 1.63944e-07 0 0 
+ITEM: TIMESTEP
+659000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 3.41e-06 0 0 -1e-06 0 0 1.64772e-07 0 0 
+ITEM: TIMESTEP
+660000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 3.4e-06 0 0 -1e-06 0 0 1.656e-07 0 0 
+ITEM: TIMESTEP
+661000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 3.39e-06 0 0 -1e-06 0 0 1.66428e-07 0 0 
+ITEM: TIMESTEP
+662000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 3.38e-06 0 0 -1e-06 0 0 1.67256e-07 0 0 
+ITEM: TIMESTEP
+663000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 3.37e-06 0 0 -1e-06 0 0 1.68084e-07 0 0 
+ITEM: TIMESTEP
+664000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 3.36e-06 0 0 -1e-06 0 0 1.68912e-07 0 0 
+ITEM: TIMESTEP
+665000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 3.35e-06 0 0 -1e-06 0 0 1.6974e-07 0 0 
+ITEM: TIMESTEP
+666000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 3.34e-06 0 0 -1e-06 0 0 1.70568e-07 0 0 
+ITEM: TIMESTEP
+667000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 3.33e-06 0 0 -1e-06 0 0 1.71396e-07 0 0 
+ITEM: TIMESTEP
+668000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 3.32e-06 0 0 -1e-06 0 0 1.72224e-07 0 0 
+ITEM: TIMESTEP
+669000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 3.31e-06 0 0 -1e-06 0 0 1.73052e-07 0 0 
+ITEM: TIMESTEP
+670000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 3.3e-06 0 0 -1e-06 0 0 1.7388e-07 0 0 
+ITEM: TIMESTEP
+671000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 3.29e-06 0 0 -1e-06 0 0 1.74708e-07 0 0 
+ITEM: TIMESTEP
+672000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 3.28e-06 0 0 -1e-06 0 0 1.75536e-07 0 0 
+ITEM: TIMESTEP
+673000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 3.27e-06 0 0 -1e-06 0 0 1.76364e-07 0 0 
+ITEM: TIMESTEP
+674000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 3.26e-06 0 0 -1e-06 0 0 1.77192e-07 0 0 
+ITEM: TIMESTEP
+675000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 3.25e-06 0 0 -1e-06 0 0 1.7802e-07 0 0 
+ITEM: TIMESTEP
+676000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 3.24e-06 0 0 -1e-06 0 0 1.78848e-07 0 0 
+ITEM: TIMESTEP
+677000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 3.23e-06 0 0 -1e-06 0 0 1.79676e-07 0 0 
+ITEM: TIMESTEP
+678000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 3.22e-06 0 0 -1e-06 0 0 1.80504e-07 0 0 
+ITEM: TIMESTEP
+679000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 3.21e-06 0 0 -1e-06 0 0 1.81332e-07 0 0 
+ITEM: TIMESTEP
+680000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 3.2e-06 0 0 -1e-06 0 0 1.8216e-07 0 0 
+ITEM: TIMESTEP
+681000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 3.19e-06 0 0 -1e-06 0 0 1.82988e-07 0 0 
+ITEM: TIMESTEP
+682000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 3.18e-06 0 0 -1e-06 0 0 1.83816e-07 0 0 
+ITEM: TIMESTEP
+683000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 3.17e-06 0 0 -1e-06 0 0 1.84644e-07 0 0 
+ITEM: TIMESTEP
+684000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 3.16e-06 0 0 -1e-06 0 0 1.85472e-07 0 0 
+ITEM: TIMESTEP
+685000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 3.15e-06 0 0 -1e-06 0 0 1.863e-07 0 0 
+ITEM: TIMESTEP
+686000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 3.14e-06 0 0 -1e-06 0 0 1.87128e-07 0 0 
+ITEM: TIMESTEP
+687000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 3.13e-06 0 0 -1e-06 0 0 1.87956e-07 0 0 
+ITEM: TIMESTEP
+688000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 3.12e-06 0 0 -1e-06 0 0 1.88784e-07 0 0 
+ITEM: TIMESTEP
+689000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 3.11e-06 0 0 -1e-06 0 0 1.89612e-07 0 0 
+ITEM: TIMESTEP
+690000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 3.1e-06 0 0 -1e-06 0 0 1.9044e-07 0 0 
+ITEM: TIMESTEP
+691000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 3.09e-06 0 0 -1e-06 0 0 1.91268e-07 0 0 
+ITEM: TIMESTEP
+692000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 3.08e-06 0 0 -1e-06 0 0 1.92096e-07 0 0 
+ITEM: TIMESTEP
+693000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 3.07e-06 0 0 -1e-06 0 0 1.92924e-07 0 0 
+ITEM: TIMESTEP
+694000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 3.06e-06 0 0 -1e-06 0 0 1.93752e-07 0 0 
+ITEM: TIMESTEP
+695000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 3.05e-06 0 0 -1e-06 0 0 1.9458e-07 0 0 
+ITEM: TIMESTEP
+696000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 3.04e-06 0 0 -1e-06 0 0 1.95408e-07 0 0 
+ITEM: TIMESTEP
+697000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 3.03e-06 0 0 -1e-06 0 0 1.96236e-07 0 0 
+ITEM: TIMESTEP
+698000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 3.02e-06 0 0 -1e-06 0 0 1.97064e-07 0 0 
+ITEM: TIMESTEP
+699000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 3.01e-06 0 0 -1e-06 0 0 1.97892e-07 0 0 
+ITEM: TIMESTEP
+700000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 3e-06 0 0 -1e-06 0 0 1.9872e-07 0 0 
+ITEM: TIMESTEP
+701000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 2.99e-06 0 0 -1e-06 0 0 1.99548e-07 0 0 
+ITEM: TIMESTEP
+702000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 2.98e-06 0 0 -1e-06 0 0 2.00376e-07 0 0 
+ITEM: TIMESTEP
+703000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 2.97e-06 0 0 -1e-06 0 0 2.01204e-07 0 0 
+ITEM: TIMESTEP
+704000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 2.96e-06 0 0 -1e-06 0 0 2.02032e-07 0 0 
+ITEM: TIMESTEP
+705000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 2.95e-06 0 0 -1e-06 0 0 2.0286e-07 0 0 
+ITEM: TIMESTEP
+706000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 2.94e-06 0 0 -1e-06 0 0 2.03688e-07 0 0 
+ITEM: TIMESTEP
+707000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 2.93e-06 0 0 -1e-06 0 0 2.04516e-07 0 0 
+ITEM: TIMESTEP
+708000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 2.92e-06 0 0 -1e-06 0 0 2.05344e-07 0 0 
+ITEM: TIMESTEP
+709000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 2.91e-06 0 0 -1e-06 0 0 2.06172e-07 0 0 
+ITEM: TIMESTEP
+710000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 2.9e-06 0 0 -1e-06 0 0 2.07e-07 0 0 
+ITEM: TIMESTEP
+711000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 2.89e-06 0 0 -1e-06 0 0 2.07828e-07 0 0 
+ITEM: TIMESTEP
+712000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 2.88e-06 0 0 -1e-06 0 0 2.08656e-07 0 0 
+ITEM: TIMESTEP
+713000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 2.87e-06 0 0 -1e-06 0 0 2.09484e-07 0 0 
+ITEM: TIMESTEP
+714000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 2.86e-06 0 0 -1e-06 0 0 2.10312e-07 0 0 
+ITEM: TIMESTEP
+715000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 2.85e-06 0 0 -1e-06 0 0 2.1114e-07 0 0 
+ITEM: TIMESTEP
+716000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 2.84e-06 0 0 -1e-06 0 0 2.11968e-07 0 0 
+ITEM: TIMESTEP
+717000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 2.83e-06 0 0 -1e-06 0 0 2.12796e-07 0 0 
+ITEM: TIMESTEP
+718000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 2.82e-06 0 0 -1e-06 0 0 2.13624e-07 0 0 
+ITEM: TIMESTEP
+719000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 2.81e-06 0 0 -1e-06 0 0 2.14452e-07 0 0 
+ITEM: TIMESTEP
+720000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 2.8e-06 0 0 -1e-06 0 0 2.1528e-07 0 0 
+ITEM: TIMESTEP
+721000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 2.79e-06 0 0 -1e-06 0 0 2.16108e-07 0 0 
+ITEM: TIMESTEP
+722000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 2.78e-06 0 0 -1e-06 0 0 2.16936e-07 0 0 
+ITEM: TIMESTEP
+723000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 2.77e-06 0 0 -1e-06 0 0 2.17764e-07 0 0 
+ITEM: TIMESTEP
+724000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 2.76e-06 0 0 -1e-06 0 0 2.18592e-07 0 0 
+ITEM: TIMESTEP
+725000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 2.75e-06 0 0 -1e-06 0 0 2.1942e-07 0 0 
+ITEM: TIMESTEP
+726000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 2.74e-06 0 0 -1e-06 0 0 2.20248e-07 0 0 
+ITEM: TIMESTEP
+727000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 2.73e-06 0 0 -1e-06 0 0 2.21076e-07 0 0 
+ITEM: TIMESTEP
+728000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 2.72e-06 0 0 -1e-06 0 0 2.21904e-07 0 0 
+ITEM: TIMESTEP
+729000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 2.71e-06 0 0 -1e-06 0 0 2.22732e-07 0 0 
+ITEM: TIMESTEP
+730000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 2.7e-06 0 0 -1e-06 0 0 2.2356e-07 0 0 
+ITEM: TIMESTEP
+731000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 2.69e-06 0 0 -1e-06 0 0 2.24388e-07 0 0 
+ITEM: TIMESTEP
+732000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 2.68e-06 0 0 -1e-06 0 0 2.25216e-07 0 0 
+ITEM: TIMESTEP
+733000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 2.67e-06 0 0 -1e-06 0 0 2.26044e-07 0 0 
+ITEM: TIMESTEP
+734000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 2.66e-06 0 0 -1e-06 0 0 2.26872e-07 0 0 
+ITEM: TIMESTEP
+735000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 2.65e-06 0 0 -1e-06 0 0 2.277e-07 0 0 
+ITEM: TIMESTEP
+736000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 2.64e-06 0 0 -1e-06 0 0 2.28528e-07 0 0 
+ITEM: TIMESTEP
+737000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 2.63e-06 0 0 -1e-06 0 0 2.29356e-07 0 0 
+ITEM: TIMESTEP
+738000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 2.62e-06 0 0 -1e-06 0 0 2.30184e-07 0 0 
+ITEM: TIMESTEP
+739000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 2.61e-06 0 0 -1e-06 0 0 2.31012e-07 0 0 
+ITEM: TIMESTEP
+740000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 2.6e-06 0 0 -1e-06 0 0 2.3184e-07 0 0 
+ITEM: TIMESTEP
+741000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 2.59e-06 0 0 -1e-06 0 0 2.32668e-07 0 0 
+ITEM: TIMESTEP
+742000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 2.58e-06 0 0 -1e-06 0 0 2.33496e-07 0 0 
+ITEM: TIMESTEP
+743000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 2.57e-06 0 0 -1e-06 0 0 2.34324e-07 0 0 
+ITEM: TIMESTEP
+744000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 2.56e-06 0 0 -1e-06 0 0 2.35152e-07 0 0 
+ITEM: TIMESTEP
+745000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 2.55e-06 0 0 -1e-06 0 0 2.3598e-07 0 0 
+ITEM: TIMESTEP
+746000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 2.54e-06 0 0 -1e-06 0 0 2.36808e-07 0 0 
+ITEM: TIMESTEP
+747000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 2.53e-06 0 0 -1e-06 0 0 2.37636e-07 0 0 
+ITEM: TIMESTEP
+748000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 2.52e-06 0 0 -1e-06 0 0 2.38464e-07 0 0 
+ITEM: TIMESTEP
+749000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 2.51e-06 0 0 -1e-06 0 0 2.39292e-07 0 0 
+ITEM: TIMESTEP
+750000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 2.5e-06 0 0 -1e-06 0 0 2.4012e-07 0 0 
+ITEM: TIMESTEP
+751000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 2.49e-06 0 0 -1e-06 0 0 2.40948e-07 0 0 
+ITEM: TIMESTEP
+752000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 2.48e-06 0 0 -1e-06 0 0 2.41776e-07 0 0 
+ITEM: TIMESTEP
+753000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 2.47e-06 0 0 -1e-06 0 0 2.42604e-07 0 0 
+ITEM: TIMESTEP
+754000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 2.46e-06 0 0 -1e-06 0 0 2.43432e-07 0 0 
+ITEM: TIMESTEP
+755000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 2.45e-06 0 0 -1e-06 0 0 2.4426e-07 0 0 
+ITEM: TIMESTEP
+756000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 2.44e-06 0 0 -1e-06 0 0 2.45088e-07 0 0 
+ITEM: TIMESTEP
+757000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 2.43e-06 0 0 -1e-06 0 0 2.45916e-07 0 0 
+ITEM: TIMESTEP
+758000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 2.42e-06 0 0 -1e-06 0 0 2.46744e-07 0 0 
+ITEM: TIMESTEP
+759000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 2.41e-06 0 0 -1e-06 0 0 2.47572e-07 0 0 
+ITEM: TIMESTEP
+760000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 2.4e-06 0 0 -1e-06 0 0 2.484e-07 0 0 
+ITEM: TIMESTEP
+761000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 2.39e-06 0 0 -1e-06 0 0 2.49228e-07 0 0 
+ITEM: TIMESTEP
+762000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 2.38e-06 0 0 -1e-06 0 0 2.50056e-07 0 0 
+ITEM: TIMESTEP
+763000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 2.37e-06 0 0 -1e-06 0 0 2.50884e-07 0 0 
+ITEM: TIMESTEP
+764000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 2.36e-06 0 0 -1e-06 0 0 2.51712e-07 0 0 
+ITEM: TIMESTEP
+765000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 2.35e-06 0 0 -1e-06 0 0 2.5254e-07 0 0 
+ITEM: TIMESTEP
+766000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 2.34e-06 0 0 -1e-06 0 0 2.53368e-07 0 0 
+ITEM: TIMESTEP
+767000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 2.33e-06 0 0 -1e-06 0 0 2.54196e-07 0 0 
+ITEM: TIMESTEP
+768000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 2.32e-06 0 0 -1e-06 0 0 2.55024e-07 0 0 
+ITEM: TIMESTEP
+769000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 2.31e-06 0 0 -1e-06 0 0 2.55852e-07 0 0 
+ITEM: TIMESTEP
+770000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 2.3e-06 0 0 -1e-06 0 0 2.5668e-07 0 0 
+ITEM: TIMESTEP
+771000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 2.29e-06 0 0 -1e-06 0 0 2.57508e-07 0 0 
+ITEM: TIMESTEP
+772000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 2.28e-06 0 0 -1e-06 0 0 2.58336e-07 0 0 
+ITEM: TIMESTEP
+773000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 2.27e-06 0 0 -1e-06 0 0 2.59164e-07 0 0 
+ITEM: TIMESTEP
+774000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 2.26e-06 0 0 -1e-06 0 0 2.59992e-07 0 0 
+ITEM: TIMESTEP
+775000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 2.25e-06 0 0 -1e-06 0 0 2.6082e-07 0 0 
+ITEM: TIMESTEP
+776000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 2.24e-06 0 0 -1e-06 0 0 2.61648e-07 0 0 
+ITEM: TIMESTEP
+777000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 2.23e-06 0 0 -1e-06 0 0 2.62476e-07 0 0 
+ITEM: TIMESTEP
+778000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 2.22e-06 0 0 -1e-06 0 0 2.63304e-07 0 0 
+ITEM: TIMESTEP
+779000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 2.21e-06 0 0 -1e-06 0 0 2.64132e-07 0 0 
+ITEM: TIMESTEP
+780000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 2.2e-06 0 0 -1e-06 0 0 2.6496e-07 0 0 
+ITEM: TIMESTEP
+781000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 2.19e-06 0 0 -1e-06 0 0 2.65788e-07 0 0 
+ITEM: TIMESTEP
+782000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 2.18e-06 0 0 -1e-06 0 0 2.66616e-07 0 0 
+ITEM: TIMESTEP
+783000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 2.17e-06 0 0 -1e-06 0 0 2.67444e-07 0 0 
+ITEM: TIMESTEP
+784000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 2.16e-06 0 0 -1e-06 0 0 2.68272e-07 0 0 
+ITEM: TIMESTEP
+785000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 2.15e-06 0 0 -1e-06 0 0 2.691e-07 0 0 
+ITEM: TIMESTEP
+786000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 2.14e-06 0 0 -1e-06 0 0 2.69928e-07 0 0 
+ITEM: TIMESTEP
+787000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 2.13e-06 0 0 -1e-06 0 0 2.70756e-07 0 0 
+ITEM: TIMESTEP
+788000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 2.12e-06 0 0 -1e-06 0 0 2.71584e-07 0 0 
+ITEM: TIMESTEP
+789000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 2.11e-06 0 0 -1e-06 0 0 2.72412e-07 0 0 
+ITEM: TIMESTEP
+790000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 2.1e-06 0 0 -1e-06 0 0 2.7324e-07 0 0 
+ITEM: TIMESTEP
+791000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 2.09e-06 0 0 -1e-06 0 0 2.74068e-07 0 0 
+ITEM: TIMESTEP
+792000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 2.08e-06 0 0 -1e-06 0 0 2.74896e-07 0 0 
+ITEM: TIMESTEP
+793000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 2.07e-06 0 0 -1e-06 0 0 2.75724e-07 0 0 
+ITEM: TIMESTEP
+794000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 2.06e-06 0 0 -1e-06 0 0 2.76552e-07 0 0 
+ITEM: TIMESTEP
+795000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 2.05e-06 0 0 -1e-06 0 0 2.7738e-07 0 0 
+ITEM: TIMESTEP
+796000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 2.04e-06 0 0 -1e-06 0 0 2.78208e-07 0 0 
+ITEM: TIMESTEP
+797000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 2.03e-06 0 0 -1e-06 0 0 2.79036e-07 0 0 
+ITEM: TIMESTEP
+798000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 2.02e-06 0 0 -1e-06 0 0 2.79864e-07 0 0 
+ITEM: TIMESTEP
+799000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 2.01e-06 0 0 -1e-06 0 0 2.80692e-07 0 0 
+ITEM: TIMESTEP
+800000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 2e-06 0 0 -1e-06 0 0 2.8152e-07 0 0 
+ITEM: TIMESTEP
+801000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 1.99e-06 0 0 -1e-06 0 0 2.82348e-07 0 0 
+ITEM: TIMESTEP
+802000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 1.98e-06 0 0 -1e-06 0 0 2.83176e-07 0 0 
+ITEM: TIMESTEP
+803000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 1.97e-06 0 0 -1e-06 0 0 2.84004e-07 0 0 
+ITEM: TIMESTEP
+804000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 1.96e-06 0 0 -1e-06 0 0 2.84832e-07 0 0 
+ITEM: TIMESTEP
+805000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 1.95e-06 0 0 -1e-06 0 0 2.8566e-07 0 0 
+ITEM: TIMESTEP
+806000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 1.94e-06 0 0 -1e-06 0 0 2.86488e-07 0 0 
+ITEM: TIMESTEP
+807000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 1.93e-06 0 0 -1e-06 0 0 2.87316e-07 0 0 
+ITEM: TIMESTEP
+808000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 1.92e-06 0 0 -1e-06 0 0 2.88144e-07 0 0 
+ITEM: TIMESTEP
+809000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 1.91e-06 0 0 -1e-06 0 0 2.88972e-07 0 0 
+ITEM: TIMESTEP
+810000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 1.9e-06 0 0 -1e-06 0 0 2.898e-07 0 0 
+ITEM: TIMESTEP
+811000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 1.89e-06 0 0 -1e-06 0 0 2.90628e-07 0 0 
+ITEM: TIMESTEP
+812000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 1.88e-06 0 0 -1e-06 0 0 2.91456e-07 0 0 
+ITEM: TIMESTEP
+813000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 1.87e-06 0 0 -1e-06 0 0 2.92284e-07 0 0 
+ITEM: TIMESTEP
+814000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 1.86e-06 0 0 -1e-06 0 0 2.93112e-07 0 0 
+ITEM: TIMESTEP
+815000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 1.85e-06 0 0 -1e-06 0 0 2.9394e-07 0 0 
+ITEM: TIMESTEP
+816000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 1.84e-06 0 0 -1e-06 0 0 2.94768e-07 0 0 
+ITEM: TIMESTEP
+817000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 1.83e-06 0 0 -1e-06 0 0 2.95596e-07 0 0 
+ITEM: TIMESTEP
+818000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 1.82e-06 0 0 -1e-06 0 0 2.96424e-07 0 0 
+ITEM: TIMESTEP
+819000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 1.81e-06 0 0 -1e-06 0 0 2.97252e-07 0 0 
+ITEM: TIMESTEP
+820000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 1.8e-06 0 0 -1e-06 0 0 2.9808e-07 0 0 
+ITEM: TIMESTEP
+821000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 1.79e-06 0 0 -1e-06 0 0 2.98908e-07 0 0 
+ITEM: TIMESTEP
+822000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 1.78e-06 0 0 -1e-06 0 0 2.99736e-07 0 0 
+ITEM: TIMESTEP
+823000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 1.77e-06 0 0 -1e-06 0 0 3.00564e-07 0 0 
+ITEM: TIMESTEP
+824000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 1.76e-06 0 0 -1e-06 0 0 3.01392e-07 0 0 
+ITEM: TIMESTEP
+825000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 1.75e-06 0 0 -1e-06 0 0 3.0222e-07 0 0 
+ITEM: TIMESTEP
+826000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 1.74e-06 0 0 -1e-06 0 0 3.03048e-07 0 0 
+ITEM: TIMESTEP
+827000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 1.73e-06 0 0 -1e-06 0 0 3.03876e-07 0 0 
+ITEM: TIMESTEP
+828000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 1.72e-06 0 0 -1e-06 0 0 3.04704e-07 0 0 
+ITEM: TIMESTEP
+829000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 1.71e-06 0 0 -1e-06 0 0 3.05532e-07 0 0 
+ITEM: TIMESTEP
+830000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 1.7e-06 0 0 -1e-06 0 0 3.0636e-07 0 0 
+ITEM: TIMESTEP
+831000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 1.69e-06 0 0 -1e-06 0 0 3.07188e-07 0 0 
+ITEM: TIMESTEP
+832000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 1.68e-06 0 0 -1e-06 0 0 3.08016e-07 0 0 
+ITEM: TIMESTEP
+833000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 1.67e-06 0 0 -1e-06 0 0 3.08844e-07 0 0 
+ITEM: TIMESTEP
+834000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 1.66e-06 0 0 -1e-06 0 0 3.09672e-07 0 0 
+ITEM: TIMESTEP
+835000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 1.65e-06 0 0 -1e-06 0 0 3.105e-07 0 0 
+ITEM: TIMESTEP
+836000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 1.64e-06 0 0 -1e-06 0 0 3.11328e-07 0 0 
+ITEM: TIMESTEP
+837000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 1.63e-06 0 0 -1e-06 0 0 3.12156e-07 0 0 
+ITEM: TIMESTEP
+838000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 1.62e-06 0 0 -1e-06 0 0 3.12984e-07 0 0 
+ITEM: TIMESTEP
+839000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 1.61e-06 0 0 -1e-06 0 0 3.13812e-07 0 0 
+ITEM: TIMESTEP
+840000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 1.6e-06 0 0 -1e-06 0 0 3.1464e-07 0 0 
+ITEM: TIMESTEP
+841000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 1.59e-06 0 0 -1e-06 0 0 3.15468e-07 0 0 
+ITEM: TIMESTEP
+842000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 1.58e-06 0 0 -1e-06 0 0 3.16296e-07 0 0 
+ITEM: TIMESTEP
+843000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 1.57e-06 0 0 -1e-06 0 0 3.17124e-07 0 0 
+ITEM: TIMESTEP
+844000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 1.56e-06 0 0 -1e-06 0 0 3.17952e-07 0 0 
+ITEM: TIMESTEP
+845000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 1.55e-06 0 0 -1e-06 0 0 3.1878e-07 0 0 
+ITEM: TIMESTEP
+846000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 1.54e-06 0 0 -1e-06 0 0 3.19608e-07 0 0 
+ITEM: TIMESTEP
+847000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 1.53e-06 0 0 -1e-06 0 0 3.20436e-07 0 0 
+ITEM: TIMESTEP
+848000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 1.52e-06 0 0 -1e-06 0 0 3.21264e-07 0 0 
+ITEM: TIMESTEP
+849000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 1.51e-06 0 0 -1e-06 0 0 3.22092e-07 0 0 
+ITEM: TIMESTEP
+850000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 1.5e-06 0 0 -1e-06 0 0 3.2292e-07 0 0 
+ITEM: TIMESTEP
+851000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 1.49e-06 0 0 -1e-06 0 0 3.23748e-07 0 0 
+ITEM: TIMESTEP
+852000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 1.48e-06 0 0 -1e-06 0 0 3.24576e-07 0 0 
+ITEM: TIMESTEP
+853000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 1.47e-06 0 0 -1e-06 0 0 3.25404e-07 0 0 
+ITEM: TIMESTEP
+854000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 1.46e-06 0 0 -1e-06 0 0 3.26232e-07 0 0 
+ITEM: TIMESTEP
+855000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 1.45e-06 0 0 -1e-06 0 0 3.2706e-07 0 0 
+ITEM: TIMESTEP
+856000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 1.44e-06 0 0 -1e-06 0 0 3.27888e-07 0 0 
+ITEM: TIMESTEP
+857000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 1.43e-06 0 0 -1e-06 0 0 3.28716e-07 0 0 
+ITEM: TIMESTEP
+858000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 1.42e-06 0 0 -1e-06 0 0 3.29544e-07 0 0 
+ITEM: TIMESTEP
+859000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 1.41e-06 0 0 -1e-06 0 0 3.30372e-07 0 0 
+ITEM: TIMESTEP
+860000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 1.4e-06 0 0 -1e-06 0 0 3.312e-07 0 0 
+ITEM: TIMESTEP
+861000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 1.39e-06 0 0 -1e-06 0 0 3.32028e-07 0 0 
+ITEM: TIMESTEP
+862000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 1.38e-06 0 0 -1e-06 0 0 3.32856e-07 0 0 
+ITEM: TIMESTEP
+863000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 1.37e-06 0 0 -1e-06 0 0 3.33684e-07 0 0 
+ITEM: TIMESTEP
+864000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 1.36e-06 0 0 -1e-06 0 0 3.34512e-07 0 0 
+ITEM: TIMESTEP
+865000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 1.35e-06 0 0 -1e-06 0 0 3.3534e-07 0 0 
+ITEM: TIMESTEP
+866000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 1.34e-06 0 0 -1e-06 0 0 3.36168e-07 0 0 
+ITEM: TIMESTEP
+867000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 1.33e-06 0 0 -1e-06 0 0 3.36996e-07 0 0 
+ITEM: TIMESTEP
+868000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 1.32e-06 0 0 -1e-06 0 0 3.37824e-07 0 0 
+ITEM: TIMESTEP
+869000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 1.31e-06 0 0 -1e-06 0 0 3.38652e-07 0 0 
+ITEM: TIMESTEP
+870000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 1.3e-06 0 0 -1e-06 0 0 3.3948e-07 0 0 
+ITEM: TIMESTEP
+871000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 1.29e-06 0 0 -1e-06 0 0 3.40308e-07 0 0 
+ITEM: TIMESTEP
+872000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 1.28e-06 0 0 -1e-06 0 0 3.41136e-07 0 0 
+ITEM: TIMESTEP
+873000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 1.27e-06 0 0 -1e-06 0 0 3.41964e-07 0 0 
+ITEM: TIMESTEP
+874000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 1.26e-06 0 0 -1e-06 0 0 3.42792e-07 0 0 
+ITEM: TIMESTEP
+875000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 1.25e-06 0 0 -1e-06 0 0 3.4362e-07 0 0 
+ITEM: TIMESTEP
+876000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 1.24e-06 0 0 -1e-06 0 0 3.44448e-07 0 0 
+ITEM: TIMESTEP
+877000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 1.23e-06 0 0 -1e-06 0 0 3.45276e-07 0 0 
+ITEM: TIMESTEP
+878000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 1.22e-06 0 0 -1e-06 0 0 3.46104e-07 0 0 
+ITEM: TIMESTEP
+879000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 1.21e-06 0 0 -1e-06 0 0 3.46932e-07 0 0 
+ITEM: TIMESTEP
+880000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 1.2e-06 0 0 -1e-06 0 0 3.4776e-07 0 0 
+ITEM: TIMESTEP
+881000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 1.19e-06 0 0 -1e-06 0 0 3.48588e-07 0 0 
+ITEM: TIMESTEP
+882000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 1.18e-06 0 0 -1e-06 0 0 3.49416e-07 0 0 
+ITEM: TIMESTEP
+883000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 1.17e-06 0 0 -1e-06 0 0 3.50244e-07 0 0 
+ITEM: TIMESTEP
+884000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 1.16e-06 0 0 -1e-06 0 0 3.51072e-07 0 0 
+ITEM: TIMESTEP
+885000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 1.15e-06 0 0 -1e-06 0 0 3.519e-07 0 0 
+ITEM: TIMESTEP
+886000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 1.14e-06 0 0 -1e-06 0 0 3.52728e-07 0 0 
+ITEM: TIMESTEP
+887000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 1.13e-06 0 0 -1e-06 0 0 3.53556e-07 0 0 
+ITEM: TIMESTEP
+888000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 1.12e-06 0 0 -1e-06 0 0 3.54384e-07 0 0 
+ITEM: TIMESTEP
+889000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 1.11e-06 0 0 -1e-06 0 0 3.55212e-07 0 0 
+ITEM: TIMESTEP
+890000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 1.1e-06 0 0 -1e-06 0 0 3.5604e-07 0 0 
+ITEM: TIMESTEP
+891000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 1.09e-06 0 0 -1e-06 0 0 3.56868e-07 0 0 
+ITEM: TIMESTEP
+892000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 1.08e-06 0 0 -1e-06 0 0 3.57696e-07 0 0 
+ITEM: TIMESTEP
+893000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 1.07e-06 0 0 -1e-06 0 0 3.58524e-07 0 0 
+ITEM: TIMESTEP
+894000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 1.06e-06 0 0 -1e-06 0 0 3.59352e-07 0 0 
+ITEM: TIMESTEP
+895000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 1.05e-06 0 0 -1e-06 0 0 3.6018e-07 0 0 
+ITEM: TIMESTEP
+896000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 1.04e-06 0 0 -1e-06 0 0 3.61008e-07 0 0 
+ITEM: TIMESTEP
+897000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 1.03e-06 0 0 -1e-06 0 0 3.61836e-07 0 0 
+ITEM: TIMESTEP
+898000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 1.02e-06 0 0 -1e-06 0 0 3.62664e-07 0 0 
+ITEM: TIMESTEP
+899000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 1.01e-06 0 0 -1e-06 0 0 3.63492e-07 0 0 
+ITEM: TIMESTEP
+900000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 1e-06 0 0 -1e-06 0 0 3.6432e-07 0 0 
+ITEM: TIMESTEP
+901000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 9.9e-07 0 0 -1e-06 0 0 3.65148e-07 0 0 
+ITEM: TIMESTEP
+902000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 9.8e-07 0 0 -1e-06 0 0 3.65976e-07 0 0 
+ITEM: TIMESTEP
+903000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 9.7e-07 0 0 -1e-06 0 0 3.66804e-07 0 0 
+ITEM: TIMESTEP
+904000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 9.6e-07 0 0 -1e-06 0 0 3.67632e-07 0 0 
+ITEM: TIMESTEP
+905000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 9.5e-07 0 0 -1e-06 0 0 3.6846e-07 0 0 
+ITEM: TIMESTEP
+906000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 9.4e-07 0 0 -1e-06 0 0 3.69288e-07 0 0 
+ITEM: TIMESTEP
+907000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 9.3e-07 0 0 -1e-06 0 0 3.70116e-07 0 0 
+ITEM: TIMESTEP
+908000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 9.2e-07 0 0 -1e-06 0 0 3.70944e-07 0 0 
+ITEM: TIMESTEP
+909000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 9.1e-07 0 0 -1e-06 0 0 3.71772e-07 0 0 
+ITEM: TIMESTEP
+910000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 9e-07 0 0 -1e-06 0 0 3.726e-07 0 0 
+ITEM: TIMESTEP
+911000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 8.9e-07 0 0 -1e-06 0 0 3.73428e-07 0 0 
+ITEM: TIMESTEP
+912000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 8.8e-07 0 0 -1e-06 0 0 3.74256e-07 0 0 
+ITEM: TIMESTEP
+913000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 8.7e-07 0 0 -1e-06 0 0 3.75084e-07 0 0 
+ITEM: TIMESTEP
+914000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 8.6e-07 0 0 -1e-06 0 0 3.75912e-07 0 0 
+ITEM: TIMESTEP
+915000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 8.5e-07 0 0 -1e-06 0 0 3.7674e-07 0 0 
+ITEM: TIMESTEP
+916000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 8.4e-07 0 0 -1e-06 0 0 3.77568e-07 0 0 
+ITEM: TIMESTEP
+917000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 8.3e-07 0 0 -1e-06 0 0 3.78396e-07 0 0 
+ITEM: TIMESTEP
+918000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 8.2e-07 0 0 -1e-06 0 0 3.79224e-07 0 0 
+ITEM: TIMESTEP
+919000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 8.1e-07 0 0 -1e-06 0 0 3.80052e-07 0 0 
+ITEM: TIMESTEP
+920000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 8e-07 0 0 -1e-06 0 0 3.8088e-07 0 0 
+ITEM: TIMESTEP
+921000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 7.9e-07 0 0 -1e-06 0 0 3.81708e-07 0 0 
+ITEM: TIMESTEP
+922000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 7.8e-07 0 0 -1e-06 0 0 3.82536e-07 0 0 
+ITEM: TIMESTEP
+923000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 7.7e-07 0 0 -1e-06 0 0 3.83364e-07 0 0 
+ITEM: TIMESTEP
+924000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 7.6e-07 0 0 -1e-06 0 0 3.84192e-07 0 0 
+ITEM: TIMESTEP
+925000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 7.5e-07 0 0 -1e-06 0 0 3.8502e-07 0 0 
+ITEM: TIMESTEP
+926000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 7.4e-07 0 0 -1e-06 0 0 3.85848e-07 0 0 
+ITEM: TIMESTEP
+927000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 7.3e-07 0 0 -1e-06 0 0 3.86676e-07 0 0 
+ITEM: TIMESTEP
+928000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 7.2e-07 0 0 -1e-06 0 0 3.87504e-07 0 0 
+ITEM: TIMESTEP
+929000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 7.1e-07 0 0 -1e-06 0 0 3.88332e-07 0 0 
+ITEM: TIMESTEP
+930000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 7e-07 0 0 -1e-06 0 0 3.8916e-07 0 0 
+ITEM: TIMESTEP
+931000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 6.9e-07 0 0 -1e-06 0 0 3.89988e-07 0 0 
+ITEM: TIMESTEP
+932000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 6.8e-07 0 0 -1e-06 0 0 3.90816e-07 0 0 
+ITEM: TIMESTEP
+933000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 6.7e-07 0 0 -1e-06 0 0 3.91644e-07 0 0 
+ITEM: TIMESTEP
+934000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 6.6e-07 0 0 -1e-06 0 0 3.92472e-07 0 0 
+ITEM: TIMESTEP
+935000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 6.5e-07 0 0 -1e-06 0 0 3.933e-07 0 0 
+ITEM: TIMESTEP
+936000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 6.4e-07 0 0 -1e-06 0 0 3.94128e-07 0 0 
+ITEM: TIMESTEP
+937000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 6.3e-07 0 0 -1e-06 0 0 3.94956e-07 0 0 
+ITEM: TIMESTEP
+938000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 6.2e-07 0 0 -1e-06 0 0 3.95784e-07 0 0 
+ITEM: TIMESTEP
+939000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 6.1e-07 0 0 -1e-06 0 0 3.96612e-07 0 0 
+ITEM: TIMESTEP
+940000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 6e-07 0 0 -1e-06 0 0 3.9744e-07 0 0 
+ITEM: TIMESTEP
+941000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 5.9e-07 0 0 -1e-06 0 0 3.98268e-07 0 0 
+ITEM: TIMESTEP
+942000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 5.8e-07 0 0 -1e-06 0 0 3.99096e-07 0 0 
+ITEM: TIMESTEP
+943000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 5.7e-07 0 0 -1e-06 0 0 3.99924e-07 0 0 
+ITEM: TIMESTEP
+944000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 5.6e-07 0 0 -1e-06 0 0 4.00752e-07 0 0 
+ITEM: TIMESTEP
+945000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 5.5e-07 0 0 -1e-06 0 0 4.0158e-07 0 0 
+ITEM: TIMESTEP
+946000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 5.4e-07 0 0 -1e-06 0 0 4.02408e-07 0 0 
+ITEM: TIMESTEP
+947000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 5.3e-07 0 0 -1e-06 0 0 4.03236e-07 0 0 
+ITEM: TIMESTEP
+948000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 5.2e-07 0 0 -1e-06 0 0 4.04064e-07 0 0 
+ITEM: TIMESTEP
+949000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 5.1e-07 0 0 -1e-06 0 0 4.04892e-07 0 0 
+ITEM: TIMESTEP
+950000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 5e-07 0 0 -1e-06 0 0 4.0572e-07 0 0 
+ITEM: TIMESTEP
+951000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 4.9e-07 0 0 -1e-06 0 0 4.06548e-07 0 0 
+ITEM: TIMESTEP
+952000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 4.8e-07 0 0 -1e-06 0 0 4.07376e-07 0 0 
+ITEM: TIMESTEP
+953000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 4.7e-07 0 0 -1e-06 0 0 4.08204e-07 0 0 
+ITEM: TIMESTEP
+954000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 4.6e-07 0 0 -1e-06 0 0 4.09032e-07 0 0 
+ITEM: TIMESTEP
+955000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 4.5e-07 0 0 -1e-06 0 0 4.0986e-07 0 0 
+ITEM: TIMESTEP
+956000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 4.4e-07 0 0 -1e-06 0 0 4.10688e-07 0 0 
+ITEM: TIMESTEP
+957000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 4.3e-07 0 0 -1e-06 0 0 4.11516e-07 0 0 
+ITEM: TIMESTEP
+958000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 4.2e-07 0 0 -1e-06 0 0 4.12344e-07 0 0 
+ITEM: TIMESTEP
+959000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 4.1e-07 0 0 -1e-06 0 0 4.13172e-07 0 0 
+ITEM: TIMESTEP
+960000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 4e-07 0 0 -1e-06 0 0 4.14e-07 0 0 
+ITEM: TIMESTEP
+961000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 3.9e-07 0 0 -1e-06 0 0 4.14828e-07 0 0 
+ITEM: TIMESTEP
+962000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 3.8e-07 0 0 -1e-06 0 0 4.15656e-07 0 0 
+ITEM: TIMESTEP
+963000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 3.7e-07 0 0 -1e-06 0 0 4.16484e-07 0 0 
+ITEM: TIMESTEP
+964000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 3.6e-07 0 0 -1e-06 0 0 4.17312e-07 0 0 
+ITEM: TIMESTEP
+965000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 3.5e-07 0 0 -1e-06 0 0 4.1814e-07 0 0 
+ITEM: TIMESTEP
+966000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 3.4e-07 0 0 -1e-06 0 0 4.18968e-07 0 0 
+ITEM: TIMESTEP
+967000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 3.3e-07 0 0 -1e-06 0 0 4.19796e-07 0 0 
+ITEM: TIMESTEP
+968000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 3.2e-07 0 0 -1e-06 0 0 4.20624e-07 0 0 
+ITEM: TIMESTEP
+969000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 3.1e-07 0 0 -1e-06 0 0 4.21452e-07 0 0 
+ITEM: TIMESTEP
+970000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 3e-07 0 0 -1e-06 0 0 4.2228e-07 0 0 
+ITEM: TIMESTEP
+971000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 2.9e-07 0 0 -1e-06 0 0 4.23108e-07 0 0 
+ITEM: TIMESTEP
+972000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 2.8e-07 0 0 -1e-06 0 0 4.23936e-07 0 0 
+ITEM: TIMESTEP
+973000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 2.7e-07 0 0 -1e-06 0 0 4.24764e-07 0 0 
+ITEM: TIMESTEP
+974000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 2.6e-07 0 0 -1e-06 0 0 4.25592e-07 0 0 
+ITEM: TIMESTEP
+975000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 2.5e-07 0 0 -1e-06 0 0 4.2642e-07 0 0 
+ITEM: TIMESTEP
+976000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 2.4e-07 0 0 -1e-06 0 0 4.27248e-07 0 0 
+ITEM: TIMESTEP
+977000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 2.3e-07 0 0 -1e-06 0 0 4.28076e-07 0 0 
+ITEM: TIMESTEP
+978000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 2.2e-07 0 0 -1e-06 0 0 4.28904e-07 0 0 
+ITEM: TIMESTEP
+979000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 2.1e-07 0 0 -1e-06 0 0 4.29732e-07 0 0 
+ITEM: TIMESTEP
+980000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 2e-07 0 0 -1e-06 0 0 4.3056e-07 0 0 
+ITEM: TIMESTEP
+981000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 1.9e-07 0 0 -1e-06 0 0 4.31388e-07 0 0 
+ITEM: TIMESTEP
+982000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 1.8e-07 0 0 -1e-06 0 0 4.32216e-07 0 0 
+ITEM: TIMESTEP
+983000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 1.7e-07 0 0 -1e-06 0 0 4.33044e-07 0 0 
+ITEM: TIMESTEP
+984000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 1.6e-07 0 0 -1e-06 0 0 4.33872e-07 0 0 
+ITEM: TIMESTEP
+985000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 1.5e-07 0 0 -1e-06 0 0 4.347e-07 0 0 
+ITEM: TIMESTEP
+986000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 1.4e-07 0 0 -1e-06 0 0 4.35528e-07 0 0 
+ITEM: TIMESTEP
+987000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 1.3e-07 0 0 -1e-06 0 0 4.36356e-07 0 0 
+ITEM: TIMESTEP
+988000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 1.2e-07 0 0 -1e-06 0 0 4.37184e-07 0 0 
+ITEM: TIMESTEP
+989000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 1.1e-07 0 0 -1e-06 0 0 4.38012e-07 0 0 
+ITEM: TIMESTEP
+990000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 1e-07 0 0 -1e-06 0 0 4.3884e-07 0 0 
+ITEM: TIMESTEP
+991000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 9e-08 0 0 -1e-06 0 0 4.39668e-07 0 0 
+ITEM: TIMESTEP
+992000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 8e-08 0 0 -1e-06 0 0 4.40496e-07 0 0 
+ITEM: TIMESTEP
+993000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 7e-08 0 0 -1e-06 0 0 4.41324e-07 0 0 
+ITEM: TIMESTEP
+994000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 6e-08 0 0 -1e-06 0 0 4.42152e-07 0 0 
+ITEM: TIMESTEP
+995000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 5e-08 0 0 -1e-06 0 0 4.4298e-07 0 0 
+ITEM: TIMESTEP
+996000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 4e-08 0 0 -1e-06 0 0 4.43808e-07 0 0 
+ITEM: TIMESTEP
+997000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 3e-08 0 0 -1e-06 0 0 4.44636e-07 0 0 
+ITEM: TIMESTEP
+998000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 2e-08 0 0 -1e-06 0 0 4.45464e-07 0 0 
+ITEM: TIMESTEP
+999000
+ITEM: NUMBER OF ATOMS
+1
+ITEM: BOX BOUNDS pp pp pp
+0 2e-05
+0 1e-05
+-5e-06 5e-06
+ITEM: ATOMS id x y z vx vy vz fx fy fz 
+2 1e-08 0 0 -1e-06 0 0 4.46292e-07 0 0 

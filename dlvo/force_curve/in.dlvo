@@ -1,0 +1,70 @@
+# DLVO Force Test File 
+
+units		si
+atom_style	atomic
+atom_modify map array
+dimension	2
+
+lattice		sq 10e-6 # lattice & lattice constant
+region		box block 0 2 0 1 -0.5 0.5
+create_box	1 box
+create_atoms	1 box
+
+group moving id 2
+group stopped id 1
+
+
+#set		group all type/fraction 2 0.96 23984
+
+#set		type 1 mass 1e-9
+#set		type 2 mass 1
+mass 1 1e-9
+
+variable posx2 equal x[2]
+variable posx equal x[1]
+variable forcex equal fx[1]
+
+#velocity	all create 300 87287 loop geom
+
+# multi neighbor and comm for efficiency
+
+neighbor	5e-6 bin
+#neigh_modify	delay 0
+#comm_modify     mode multi
+
+# colloid potential
+
+pair_style	dlvo 2.5e-6 # cutoff
+pair_coeff	1 1  1.3e-20 2.7e-6 8.15e-12 104022291 0.0828 
+# hamaker radius psi debyeinv springk
+dielectric 	80
+pair_modify	shift yes
+
+#fix		1 all npt temp 300 300 1 iso 0.002 0.002 10 #mtk no pchain 0 tchain 1
+#fix		1 all nve
+#fix     1 all langevin 300.00 3.00 1e-1 87287  # start_temp final_temp time_constant seed
+#fix     1 all nvt temp 300.00 3.00 1e-1  # start_temp final_temp time_constant
+fix     3 moving  move linear -1.0e-1 0.0 0.0
+fix     4 stopped move linear 0.0 0.0 0.0
+#fix     5 moving print 1000 "${posx} ${posy} " file forces.data
+fix		2 all enforce2d
+
+
+
+dump		1 moving  custom 1000 dump.dlvo.lammpstrj id x y z vx vy vz fx fy fz
+#dump_modify 	1 scale no
+
+#dump		2 all image 1000 image.*.jpg type type &
+#		zoom 1.5 center d 0.5 0.5 0.5
+#dump_modify	2 pad 5 adiam 1 5.0 adiam 2 1.5
+
+#dump		3 all movie 1000 movie.mpg type type &
+#		zoom 1.5 center d 0.5 0.5 0.5
+#dump_modify	3 pad 5 adiam 1 5.0 adiam 2 1.5
+
+thermo_style	custom step temp epair etotal press vol v_posx2 v_posx v_forcex
+thermo		10000
+
+timestep	1e-5
+
+run		999999

@@ -1,0 +1,44 @@
+units           si
+atom_style      atomic
+dimension       2
+
+lattice         sq 10e-6 #Distances measured in units 
+region		box block 0 5 0 5 -0.5 0.5  #Units in lattice constant
+create_box	1 box
+create_atoms	1 box
+
+mass 		1 1e-9
+
+velocity	all create 300.0 87287 loop geom  #87287 is random number key
+neighbor	5e-6 bin
+#neigh_modify	check no page 10000000 one 4000
+
+
+# DLVO potential
+pair_style	dlvo 2.5e-7 #find realistic cutoff
+pair_coeff	1 1  1.3e-20 2.7e-6 8.15e-12 104022291 0.0828  #hamaker radius psi debyeinv springk
+dielectric	80
+pair_modify 	shift yes
+#Data values from page 27 of MR thesis?
+
+#fix		1 all npt temp 300.0 300.0 1  iso 0.02 0.02 10 
+fix		1 all nve
+fix		2 all enforce2d
+
+dump		1 all custom 1 dump.dlvo.lammpstrj id x y z vx vy vz fx fy fz
+
+
+#dump		2 all image 1000 image.*.jpg type type &
+#		zoom 1.5 center d 0.5 0.5 0.5
+#dump_modify	2 pad 5 adiam 1 5.0 adiam 2 1.5
+
+#dump		3 all movie 1000 movie.mpg type type &
+#		zoom 1.5 center d 0.5 0.5 0.5
+#dump_modify	3 pad 5 adiam 1 5.0 adiam 2 1.5
+
+thermo_style	custom step temp epair etotal press vol lx ly lz
+thermo		1000
+
+timestep	1e-3	
+
+run		100000
