@@ -41,4 +41,4 @@ thermo		1000
 
 timestep	1e-3	
 
-run		100000
+run		1000
