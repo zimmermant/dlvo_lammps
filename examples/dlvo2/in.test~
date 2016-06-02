@@ -1,0 +1,43 @@
+# Big colloid particles and small LJ particles
+log log.test
+
+units		si
+atom_style	atomic
+dimension	2
+
+lattice		sq 10e-6 # lattice & latice constant
+region		box block 0 10 0 10 -0.5 0.5
+atom_modify	map array
+create_box	1 box
+create_atoms	1 single 0 0 0
+create_atoms	1 single 5e-6 0 0 units box
+
+mass 		1 1e-9
+
+group 		fixed  id 1
+group 		mobile id 2
+
+neighbor	5e-6 bin
+
+pair_style	dlvo 2.5e-6 # cutoff
+pair_coeff	1 1  1.3e-20 2.7e-6 8.15e-12 104022291 0.0828 
+# hamaker radius psi debyeinv springk
+dielectric 	80
+pair_modify	shift yes
+
+fix		1 mobile move linear 1e-5 0 0 units box
+fix		2 all enforce2d
+#compute 	1 mobile property/atom x fx
+variable 	x equal x[2]
+variable 	f equal fx[2]
+
+#dump		1 all custom 10000 dump.dlvo.lammpstrj id x y z vx vy vz fx fy fz
+#dump_modify 	1 scale no
+
+thermo_style	custom v_x v_f epair
+#thermo_style	custom c_1[1] c_1[2] epair
+thermo		1
+
+timestep	1e-4
+
+run		3000
